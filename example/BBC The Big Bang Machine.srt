@@ -1,0 +1,2974 @@
+1
+00:00:11,340 --> 00:00:15,665
+13.7 billones de años
+después todo empezó,
+
+2
+00:00:15,700 --> 00:00:20,580
+estamos a punto de volver
+al comienzo de los tiempos.
+
+3
+00:00:25,340 --> 00:00:31,860
+"Con el mayor y más complejo
+experimento científico nunca intentado.
+
+4
+00:00:31,895 --> 00:00:35,625
+«El Gran Colisionador de hadrones, o LHC,
+
+5
+00:00:35,660 --> 00:00:40,065
+«acaba de un simple
+pero audaz objetivo --
+
+6
+00:00:40,100 --> 00:00:43,060
+'para recrear las condiciones
+del Big Bang ...
+
+7
+00:00:45,220 --> 00:00:50,860
+en una tendencia de contestar las preguntas
+mas profundas sobre el universo
+
+8
+00:00:53,540 --> 00:01:00,185
+El objetivo de la física de partículas es
+comprender el universo en que vivimos.
+
+9
+00:01:00,220 --> 00:01:06,820
+Queremos saber por qué las cosas son como
+son, cómo funcionan, todo lo que es ...
+
+10
+00:01:06,855 --> 00:01:08,780
+queremos entender.
+
+11
+00:01:10,540 --> 00:01:16,345
+Si va a ir por las grandes
+preguntas y usted tiene que ir por ello.
+
+12
+00:01:16,380 --> 00:01:23,540
+No tiene sentido en la especie meterse si ud
+realmente quieren entender cómo el universo hace tic..
+
+13
+00:01:23,575 --> 00:01:25,540
+El LHC es lo que usted necesita.
+
+14
+00:01:27,500 --> 00:01:32,545
+Cuando el interruptor es lanzado, esto podría
+ser el principio del fin,
+
+15
+00:01:32,580 --> 00:01:36,860
+cuando nos encontramos con que nuestras teorías de lo que
+existían justo después del Big Bang tiene razon,
+
+16
+00:01:39,420 --> 00:01:46,020
+o podría ser el final del principio, donde
+descubrimos que el universo es más misterioso
+
+17
+00:01:46,055 --> 00:01:50,420
+y más hermoso que nosotros
+podríamos habernos imaginado.
+
+18
+00:02:13,540 --> 00:02:19,900
+El Colisionador de Hadrones se extiende por toda la
+frontera Francia / suiza a las afueras de Ginebra.
+
+19
+00:02:19,935 --> 00:02:23,020
+Es el más grande acelerador
+de particulas jamás construido.
+
+20
+00:02:27,140 --> 00:02:31,145
+Soy Brian Cox y he
+ayudado a construir,
+
+21
+00:02:31,180 --> 00:02:38,500
+junto con otros miles de científicos en el CERN,
+la Organización Europea de Investigaciones Nucleares.
+
+22
+00:02:41,620 --> 00:02:45,100
+Este es el experimento,
+si se puede decir, Q1, Q2, Q3.
+
+23
+00:02:47,460 --> 00:02:50,625
+Uno de los científicos que
+supervisan la puesta en marcha
+
+24
+00:02:50,660 --> 00:02:56,700
+del experimento más grande de la NASA que
+enviada a los hombres a la luna, es Paul Collier.
+
+25
+00:02:56,735 --> 00:03:01,305
+Va a ser como un lanzamiento de una nave a la luna
+donde se ve CAPCOM - "Vamos, vamos!"
+
+26
+00:03:01,340 --> 00:03:06,240
+No va a ser un banco de expertos
+diciendo, "mío son todos los derechos." Probablemente sí.
+
+27
+00:03:06,275 --> 00:03:11,140
+Usted debe tener esta pregunta todo el tiempo.
+Existe un botón? Quien lo va a presionar?
+
+28
+00:03:11,175 --> 00:03:15,140
+No hay en este momento un botón,
+pero estoy considerando comprar uno,
+
+29
+00:03:15,175 --> 00:03:18,025
+pero el LHC no es como ...
+no es como un cohete.
+
+30
+00:03:18,060 --> 00:03:21,620
+No habrá una cuenta regresiva,
+no habrá un botón al que presionar,
+
+31
+00:03:21,655 --> 00:03:27,060
+desgraciadamente. Los botones que tenemos
+son todas las secuencias del computador
+
+32
+00:03:27,095 --> 00:03:30,100
+que tenemos que examinar
+para preparar la máquina.
+
+33
+00:03:30,135 --> 00:03:33,385
+esto soportará el espacio solo
+
+34
+00:03:33,420 --> 00:03:37,065
+como el mundo de los físicos de partículas
+mas eminente
+
+35
+00:03:37,100 --> 00:03:42,105
+se reúnen para ver como la notable
+máquina que produce, trae la vida.
+
+36
+00:03:42,140 --> 00:03:48,260
+¿Cuál es la escena que se verá el
+día en que el primer rayo gire en torno LHC?
+
+37
+00:03:48,295 --> 00:03:50,505
+¿Qué se va a sentir
+en esta sala de control?
+
+38
+00:03:50,540 --> 00:03:53,345
+Sí, eso va a ser un
+tiempo interesante y muy emocionante.
+
+39
+00:03:53,380 --> 00:03:57,820
+Lo primero que debo decir es
+que dos personas realizaran guardia aquí,
+
+40
+00:03:57,855 --> 00:04:00,985
+un físico
+y un ingeniero técnico,
+
+41
+00:04:01,020 --> 00:04:07,220
+así, si se quiere, dos personas realizaran el trabajo,
+y, a continuación, probablemente 200 personas vamos a estar observando en práctica.
+
+42
+00:04:07,255 --> 00:04:10,580
+Y, por supuesto, tendremos que ...
+tendremos que mantener el control de eso.
+
+43
+00:04:10,615 --> 00:04:13,105
+Es brillante, realmente,
+es fascinante.
+
+44
+00:04:13,140 --> 00:04:19,700
+Todos nosotros que trabajamos en el CERN Esperamos que esto
+se convierta en el más famoso laboratorio de Big Bang.
+
+45
+00:04:23,180 --> 00:04:30,180
+Que aquí vamos a descubrir algo tan fundamental
+que va a cambiar nuestra comprensión del cosmos.
+
+46
+00:04:32,500 --> 00:04:37,025
+Porque ahora incluso los más brillantes
+las mentes y las mejores teorías
+
+47
+00:04:37,060 --> 00:04:44,060
+todos no están a la altura de explicar lo que ocurrió
+como el universo irrumpió en existencia.
+
+48
+00:04:45,180 --> 00:04:50,545
+la Física se ha quedado atascado y la única cosa
+que queda por hacer es recrear el universo
+
+49
+00:04:50,580 --> 00:04:56,780
+como era, en  una fracción de segundo después del Big
+Bang, y para eso es lo que el LHC fue diseñado,
+
+50
+00:04:56,815 --> 00:05:01,500
+para aplastar bits de la materia junto
+a energías nunca antes alcanzadas
+
+51
+00:05:01,535 --> 00:05:05,460
+para que podamos mirar
+en la cara de su creación.
+
+52
+00:05:12,260 --> 00:05:16,660
+Cada civilización tiene
+lsu propia historia de la creación.
+
+53
+00:05:20,580 --> 00:05:25,225
+La antigua China, mistica India
+y los teólogos cristianos
+
+54
+00:05:25,260 --> 00:05:29,900
+todos pusieron  un creador divino en el
+corazón de sus historias de creacion.
+
+55
+00:05:31,020 --> 00:05:36,900
+La ciencia también tiene una compleja historia
+que describe la génesis del universo.
+
+56
+00:05:39,260 --> 00:05:44,580
+Se nos dice cómo los componentes fundamentales
+del cosmos tuvo a su forma.
+
+57
+00:05:47,180 --> 00:05:51,545
+La diferencia con esta historia
+es que podemos probarlo.
+
+58
+00:05:51,580 --> 00:05:57,660
+Podemos averiguar si es verdad desgarrando
+la materia y mirando los pedazos.
+
+59
+00:05:58,740 --> 00:06:05,980
+Todo lo que necesitas es una máquina lo bastante potente para
+organizar de nuevo los primeros momentos despues de la creacion.
+
+60
+00:06:12,340 --> 00:06:15,585
+Al principio no había nada.
+
+61
+00:06:15,620 --> 00:06:21,660
+No hay espacio, ni tiempo,
+sólo un sinfín de nada.
+
+62
+00:06:24,420 --> 00:06:29,580
+Entonces, 13,7 billones de años atrás,
+de nada ...
+
+63
+00:06:35,420 --> 00:06:37,540
+.. vino todo.
+
+64
+00:06:40,420 --> 00:06:44,220
+El universo explotó
+en existencia.
+
+65
+00:06:48,340 --> 00:06:53,740
+A partir de esa bola de fuego energía, surgieron
+los bloques de construcción más simple de la materia.
+
+66
+00:07:03,140 --> 00:07:10,060
+Encontrar evidencia experimental de estos fundamentales
+entidades se ha convertido en el Santo Grial de la física.
+
+67
+00:07:11,780 --> 00:07:15,860
+Bueno, el universo es un objeto
+que no es estable.
+
+68
+00:07:15,895 --> 00:07:19,905
+Está en expansión y enfriamiento,
+y haciendo cosas.
+
+69
+00:07:19,940 --> 00:07:24,460
+Por lo tanto, es diferente en el
+pasado y será en el futuro.
+
+70
+00:07:24,495 --> 00:07:27,740
+Tiene una historia, tiene una vida,
+y  tiene  una evolución.
+
+71
+00:07:29,540 --> 00:07:34,825
+A medida que el temprano universo creció,
+sus misteriosos componentes primitivos
+
+72
+00:07:34,860 --> 00:07:42,460
+se transformaron ellos mismos en los átomos, luego en
+moléculas y, finalmente, en estrellas y planetas.
+
+73
+00:07:42,495 --> 00:07:47,340
+Ahora, miles de millones de años después de el
+Big Bang, el universo es tan complejo
+
+74
+00:07:47,375 --> 00:07:51,300
+que todos los rastros de los enigmáticos
+bloques de construcción se han perdido.
+
+75
+00:07:54,140 --> 00:07:59,460
+Comprender la evolución del universo
+requiere la comprensión de lo que esta hecho.
+
+76
+00:08:00,980 --> 00:08:05,980
+Como resulta, la mayor parte de
+de lo que esta hecho el universo
+
+77
+00:08:06,015 --> 00:08:08,705
+son cosas que
+No entiendo en absoluto.
+
+78
+00:08:08,740 --> 00:08:14,780
+Pero esperamos que el LHC sea el puente
+entre esta profunda brecha en nuestro conocimiento
+
+79
+00:08:14,815 --> 00:08:18,820
+mirar detenidamente más atrás en el tiempo
+que nunca antes.
+
+80
+00:08:23,260 --> 00:08:26,585
+El LHC es verdaderamente colosal.
+
+81
+00:08:26,620 --> 00:08:31,060
+Su anillo acelerador es de
+27 kilómetros de largo,
+
+82
+00:08:31,095 --> 00:08:35,345
+lo suficientemente grande como para rodear
+una pequeña ciudad.
+
+83
+00:08:35,380 --> 00:08:39,185
+Y alrededor de él hemos construido
+cuatro enormes experimentos
+
+84
+00:08:39,220 --> 00:08:44,140
+que investigarán el nuevo Big Bang
+en exquisito detalle.
+
+85
+00:08:45,860 --> 00:08:51,060
+Esta es mi etapa, el
+experimento en que yo trabajo, Atlas,
+
+86
+00:08:51,095 --> 00:08:54,825
+y lo que puedes ver
+es sólo la superficie de los edificios.
+
+87
+00:08:54,860 --> 00:08:59,345
+El experimento es en realidad 100 metros
+por debajo de la tierra que es donde está el LHC,
+
+88
+00:08:59,380 --> 00:09:05,820
+y ésto es básicamente sólo un edificio que
+cubre a las grúas donde nosotros vamos todos abajo.
+
+89
+00:09:06,900 --> 00:09:10,185
+Y es casi la última vez
+
+90
+00:09:10,220 --> 00:09:17,625
+que no sólo los equipos de televisión, pero a mí y a la
+la gente que lo construyó será capaz de bajar
+
+91
+00:09:17,660 --> 00:09:24,820
+porque una vez que comienza a operar, toda la zona
+se convierte en una zona de radiación, se convierte en ligeramente radiactivos.
+
+92
+00:09:27,020 --> 00:09:29,820
+Usted siempre tiene que estar preocupado
+cuando vea esas cosas.
+
+93
+00:09:34,860 --> 00:09:39,300
+Uno de los más caros bits de Atlas,
+si no la mayoría, fue la excavación de la caverna.
+
+94
+00:09:43,780 --> 00:09:49,180
+Incluso tenemos escáneres de iris, por lo que
+un poco de ciencia ficción.
+
+95
+00:09:52,340 --> 00:09:58,100
+Es aquí en cavernas rebosantes de la
+tecnología más avanzada que el Big Bangs se hará.
+
+96
+00:10:03,300 --> 00:10:10,105
+Acabamos de tener poco bits de la materia, poco bits
+de estas cosas y acelerar a lo más cerca
+
+97
+00:10:10,140 --> 00:10:17,300
+a la velocidad de la luz, ya que podemos conseguir y, 
+a continuación, las aplastamos juntos en el centro de ese detector
+
+98
+00:10:17,335 --> 00:10:21,500
+para recrear las condiciones que se
+ dieron en el comienzo de los tiempos.
+
+99
+00:10:27,300 --> 00:10:32,225
+Los bits de la materia que vamos a
+encontrar en todo el LHC se llaman protones.
+
+100
+00:10:32,260 --> 00:10:38,980
+Proceden de una familia de partículas que
+le dan su nombre al colisionador, el Hadrons.
+
+101
+00:10:39,015 --> 00:10:44,340
+Protones van a volar por aquí
+tan cerca de la velocidad de la luz
+
+102
+00:10:44,375 --> 00:10:47,860
+que van rondar este túnel de 27 kilometros
+11.000 veces por segundo.
+
+103
+00:10:50,140 --> 00:10:55,780
+El anillo tiene dos barriles que va a disparar
+hazes de protones en torno a direcciones opuestas.
+
+104
+00:10:59,140 --> 00:11:05,300
+Cuando choquen, tendrán la energía equivalente
+a un portaaviones a vapor a 30 nudos.
+
+105
+00:11:08,340 --> 00:11:13,500
+Toda esta energía se centrará en un espacio
+sólo una fracción del ancho de un cabello humano.
+
+106
+00:11:18,540 --> 00:11:24,500
+La explosión resultante será tan intensa
+que nadie está bastante seguro de lo que va a suceder.
+
+107
+00:11:28,020 --> 00:11:30,905
+Esta máquina es realmente
+un salto hacia lo desconocido.
+
+108
+00:11:30,940 --> 00:11:37,480
+Me refiero a lo que a menudo se dice con experimentos científicos
+pero creo que en este caso es toda la razón.
+
+109
+00:11:37,515 --> 00:11:44,020
+Estamos, estamos a un paso, algo así como un factor de
+diez en la energía por lo que es un enorme salto en la energía.
+
+110
+00:11:44,055 --> 00:11:48,265
+Es un salto enorme en el número de veces que
+podemos romper las partículas en conjunto por segundo.
+
+111
+00:11:48,300 --> 00:11:54,540
+Se choca protones juntos tan a menudo que su
+posibilidades de ver algo increíblemente interesante
+
+112
+00:11:54,575 --> 00:11:58,997
+y profundo se incrementan de forma
+más allá de todo lo que hemos tenido antes
+
+113
+00:11:59,032 --> 00:12:03,420
+y no se me ocurre ningún lugar mejor
+que el actual momento.
+
+114
+00:12:03,455 --> 00:12:05,540
+Esto es excitante.
+
+115
+00:12:17,500 --> 00:12:22,300
+El sueño de la comprensión de los bloques
+de construcción a partir de la cual el universo se construye
+
+116
+00:12:22,335 --> 00:12:26,060
+ha inspirado a las mentes más grandes
+durante más de dos milenios.
+
+117
+00:12:28,740 --> 00:12:34,700
+La gente ha querido entender el
+universo y las cosas a su alrededor
+
+118
+00:12:34,735 --> 00:12:37,300
+nunca desde que comenzaron
+que pensar en él.
+
+119
+00:12:39,500 --> 00:12:43,460
+Las personas siempre han venido haciendo
+teorías acerca de qué materia está hecho.
+
+120
+00:12:45,220 --> 00:12:48,740
+Pero el universo como todo el otro
+mundo está hecho de piezas pequeñas que
+
+121
+00:12:48,775 --> 00:12:52,260
+deben entenderse con el fin de
+entender cómo funciona el universo.
+
+122
+00:12:54,260 --> 00:12:57,585
+La primera referencia a el presente
+concepto del mundo está formado por
+
+123
+00:12:57,620 --> 00:13:03,740
+pequeñas piezas indivisibles se remonta
+a la antigua India en el siglo VI antes de Cristo.
+
+124
+00:13:05,820 --> 00:13:13,700
+Dos siglos después, los antiguos griegos fueron los primeros
+en llamar a estas piezas, los átomos, lo que significa indivisible.
+
+125
+00:13:13,735 --> 00:13:21,580
+Pero increíblemente, sólo fue a principios del siglo 20
+que el concepto de átomo solido se hizo pedazos ...
+
+126
+00:13:23,460 --> 00:13:26,580
+.. y la versión moderna de
+teoría atómica nació.
+
+127
+00:13:28,860 --> 00:13:34,900
+Esta nueva teoría del átomo se describe como
+formado por una serie de piezas más pequeñas aún.
+
+128
+00:13:35,980 --> 00:13:40,145
+Alrededor de las partículas
+que forman el núcleo del átomo,
+
+129
+00:13:40,180 --> 00:13:46,460
+otras partículas cargadas eléctricamente llamados electrones
+constantemente al igual que los planetas giran alrededor del sol.
+
+130
+00:13:47,500 --> 00:13:51,460
+Este nueva teoria sub-atómicas inspiró
+al gran físico experimental
+
+131
+00:13:51,495 --> 00:13:56,340
+Ernest Rutherford a inventar
+el arte de la colisión de partículas.
+
+132
+00:14:01,460 --> 00:14:04,660
+Y desde entonces, nos
+hemos alejado del lado de capas atómicas.
+
+133
+00:14:07,300 --> 00:14:12,660
+Lejos de ser indivisible, el átomo aparentó
+ ser más y más como una muñeca rusa.
+
+134
+00:14:24,740 --> 00:14:29,780
+Hoy en día los físicos de partículas están ocupados
+soñando siempre en formas más elaboradas
+
+135
+00:14:29,815 --> 00:14:32,905
+para torturar materia.
+
+136
+00:14:32,940 --> 00:14:38,580
+Casi parece una paradoja que para
+buscar la cosa mas pequeña,
+
+137
+00:14:38,615 --> 00:14:40,780
+sea mas grande el instrumento que usted necesita.
+
+138
+00:14:44,980 --> 00:14:49,220
+esto es Fermilab y solía
+trabajar aquí durante tres años.
+
+139
+00:14:49,255 --> 00:14:53,060
+Es una hermosa pedazo
+de las praderas del medio oeste.
+
+140
+00:14:54,740 --> 00:14:57,225
+La razón por la que trabajé aquí
+se debe a que allí
+
+141
+00:14:57,260 --> 00:15:01,300
+es el mayor acelerador de partículas
+que operan en el mundo de hoy.
+
+142
+00:15:02,900 --> 00:15:07,020
+"Yo serví mi aprendizaje en una
+máquina aquí llamada el Tevatron. '
+
+143
+00:15:08,660 --> 00:15:12,825
+En virtud de dicho lago, hay un tubo
+que lleva un haz de protones de una manera
+
+144
+00:15:12,860 --> 00:15:18,740
+y anti-protones la cuestión de otra manera y nos
+acelera la ronda de ellos 50.000 veces por segundo.
+
+145
+00:15:18,775 --> 00:15:19,825
+Imagínese eso!
+
+146
+00:15:19,860 --> 00:15:25,160
+Es lo más cercano a la velocidad de la luz, ya podemos obtener
+y luego aplastar juntos, dos lugares en realidad,
+
+147
+00:15:25,195 --> 00:15:30,460
+que el edificio rojo, que se llama la FCD y
+que el edificio azul que allí se llama D cero.
+
+148
+00:15:30,495 --> 00:15:34,260
+Y su trabajo es simplemente tomar
+fotos  de esas colisiones.
+
+149
+00:15:38,940 --> 00:15:41,900
+Fermilab ha estado chocando
+partículas por más de 40 años.
+
+150
+00:15:44,740 --> 00:15:47,660
+Probando los secretos del átomo.
+
+151
+00:15:53,540 --> 00:15:59,620
+Liderando el camino en esta sub-atómicas frontera
+fue el famoso cazador de partículas, León Lederman.
+
+152
+00:16:06,540 --> 00:16:09,065
+No sabíamos nada
+acerca de estas partículas.
+
+153
+00:16:09,100 --> 00:16:13,220
+Sabíamos acerca de los átomos, pero no tuvimos
+idea de la complejidad de la materia.
+
+154
+00:16:16,460 --> 00:16:20,420
+¿Lo que enredó mas a Lederman fue que entre
+más  veian en el interior del átomo,
+
+155
+00:16:20,455 --> 00:16:23,700
+más partículas fundamentales
+se encontraron.
+
+156
+00:16:26,260 --> 00:16:29,700
+El momento de descubrimiento es realmente
+una serie de momentos.
+
+157
+00:16:29,735 --> 00:16:31,465
+El experimento ha funcionado.
+
+158
+00:16:31,500 --> 00:16:35,500
+Nos parece bien y, a continuación, por último,
+"Hey, mira que hay un evento!"
+
+159
+00:16:40,260 --> 00:16:46,580
+Eventualmente obtener suficientes datos para decir que estamos
+empezando a ver una clase de partículas ...
+
+160
+00:16:46,615 --> 00:16:51,020
+que debe tener un papel muy importante
+en la evolución del universo.
+
+161
+00:16:53,260 --> 00:17:00,540
+Debido a la labor de Lederman y otros pioneros,
+resultaron en nuevos aprendizajes en partículas para la ciencia.
+
+162
+00:17:05,300 --> 00:17:07,905
+El "Upquark", el "Down quark ",
+
+163
+00:17:07,940 --> 00:17:10,420
+el electrón,
+el neutrino electrón,
+
+164
+00:17:10,455 --> 00:17:13,505
+la Forma W-plus y la Forma W-menos.
+
+165
+00:17:13,540 --> 00:17:20,060
+Como los científicos iban haciendo éstos descubrimientos
+comenzaron a nombrar estas partículas fundamentales.
+
+166
+00:17:20,095 --> 00:17:24,460
+El encanto quark, el quark extraño,
+el muón, el neutrino mu.
+
+167
+00:17:26,100 --> 00:17:32,180
+Con estos bloques de construcción llegaron a
+una notable comprensión del mundo.
+
+168
+00:17:32,215 --> 00:17:34,437
+El quark top, la parte inferior quark,
+
+169
+00:17:34,472 --> 00:17:36,906
+el tao tao y el neutrino,
+
+170
+00:17:36,941 --> 00:17:39,340
+la Z de partículas y los fotones.
+
+171
+00:17:40,940 --> 00:17:45,420
+Ahora ellos podrian explicar de que algo
+y todas las cosas son hechas.
+
+172
+00:17:47,300 --> 00:17:53,900
+Ese es el modelo estándar ... Oh, no!
+El gluon, no debemos olvidar el gluon.
+
+173
+00:17:59,900 --> 00:18:06,260
+El Modelo Estándar ha pasado a convertirse en
+la base de toda la física moderna de partículas.
+
+174
+00:18:06,295 --> 00:18:10,460
+Por lo tanto, este es un modelo que
+se desarrolló en la década de 1960.
+
+175
+00:18:10,495 --> 00:18:14,465
+Los primeros avances experimentales
+
+176
+00:18:14,500 --> 00:18:20,705
+demostraron que el mismo podría ser cierto
+ y llegó en el decenio de 1970 y yo diría,
+
+177
+00:18:20,740 --> 00:18:25,900
+fue realmente creado por los experimentos
+en el CERN en los decenios de 1980 y el decenio de 1990.
+
+178
+00:18:27,020 --> 00:18:33,180
+La Ciencia experimental ha demostrado que la naturaleza de
+la Materia es más compleja de lo que nadie había previsto.
+
+179
+00:18:36,380 --> 00:18:42,740
+En lugar de un único átomo, resulta que
+la naturaleza utiliza 16 diferentes partículas fundamentales
+
+180
+00:18:42,775 --> 00:18:45,700
+paraa hacer todo
+lo vemos en el cosmos.
+
+181
+00:18:48,020 --> 00:18:53,985
+El modelo estándar propio
+es un triunfo. tenemos no solo
+
+182
+00:18:54,020 --> 00:19:00,780
+las partículas, sino también las matemáticas
+que da una gran coherencia
+
+183
+00:19:00,815 --> 00:19:04,980
+para nuestro mundo
+en el nivel microscópico.
+
+184
+00:19:14,580 --> 00:19:19,500
+El Modelo Estándar que describe con precisión
+los componentes esenciales del universo.
+
+185
+00:19:22,060 --> 00:19:27,900
+No es exagerado decir que es una de las más
+exitosas teorías en la historia de la ciencia.
+
+186
+00:19:34,140 --> 00:19:37,460
+Y, sin embargo, muchos físicos se sienten incómodos
+sobre el Modelo Estándar.
+
+187
+00:19:41,620 --> 00:19:45,580
+Las matemáticas es demasiada compleja, incluso feo.
+
+188
+00:19:49,620 --> 00:19:55,265
+Cuando los científicos hablan de la belleza
+en una teoría física, ellos se refieren a
+
+189
+00:19:55,300 --> 00:20:04,660
+que pueden describir toda una serie de diversos fenómenos
+con, esperamos, conceptos simples y matemáticas simple.
+
+190
+00:20:04,695 --> 00:20:07,545
+Tomemos, la teoría de Einstein
+de la relatividad general,
+
+191
+00:20:07,580 --> 00:20:11,420
+nuestra teoría de la gravitación,
+se puede escribir que en una línea.
+
+192
+00:20:20,020 --> 00:20:22,345
+Ahora los problemas con
+el Modelo Estándard es decir,
+
+193
+00:20:22,380 --> 00:20:30,900
+así, toma las páginas de anotar, pero también hay
+elementos a considerar que son misteriosos, incluso arbitrarios.
+
+194
+00:20:45,220 --> 00:20:49,545
+Hay algo terrorifico
+acerca de este Modelo Estándar.
+
+195
+00:20:49,580 --> 00:20:53,740
+Realmente no trabaja, por lo que sabemos que
+hay algo enfermo en nuestra teoría.
+
+196
+00:20:56,380 --> 00:21:03,140
+Por ejemplo, tenemos en este momento lo que llamamos
+un modelo estándar de física de partículas, Trabaja bien.
+
+197
+00:21:03,175 --> 00:21:08,260
+Sólo un pequeño problema, si se escribe
+la ecuación de este modelo
+
+198
+00:21:08,295 --> 00:21:11,980
+parecería sugerir que ninguna
+partículas tuvieran una masa.
+
+199
+00:21:12,015 --> 00:21:13,180
+Es evidente que eso no es verdad.
+
+200
+00:21:19,340 --> 00:21:22,545
+Por todo su poder,
+el Modelo Estándar ha pasado por alto
+
+201
+00:21:22,580 --> 00:21:26,460
+uno de las más elementales
+propiedades fundamentales de nuestro mundo.
+
+202
+00:21:27,540 --> 00:21:31,300
+es incompleta
+en su descripción del universo.
+
+203
+00:21:38,460 --> 00:21:46,860
+Lo que falta es una explicación, un mecanismo por la cual
+las partículas fundamentales adquieren la masa.
+
+204
+00:21:46,895 --> 00:21:52,380
+Ahora sabemos intuitivamente que
+las cosas en el mundo que nos rodea tienen masa.
+
+205
+00:21:53,420 --> 00:21:54,785
+Podemos sentirlo.
+
+206
+00:21:54,820 --> 00:21:59,780
+Es ... Bueno, es lo que
+hace cosas, cosas.
+
+207
+00:21:59,815 --> 00:22:04,705
+Pero, ¿que es la masa y
+por qué existe?
+
+208
+00:22:04,740 --> 00:22:11,460
+Suena simple pero es uno de los más
+difíciles y desafiantes problemas en la física.
+
+209
+00:22:19,060 --> 00:22:22,505
+debe haber habido
+un tiempo en el universo primitivo
+
+210
+00:22:22,540 --> 00:22:26,980
+cuando las partículas se hicieron
+sustanciales y tomaron su masa.
+
+211
+00:22:32,380 --> 00:22:37,300
+La mejor teoría que tenemos para explicar
+cómo esto ocurrió fue soñado un día
+
+212
+00:22:37,335 --> 00:22:42,220
+por un físico británico Peter Higgs,
+mientras que caminaba en las tierra altas escocesas.
+
+213
+00:22:45,220 --> 00:22:49,620
+Él vino con un mecamismo teórico
+desde su punto de vista que podría explicar
+
+214
+00:22:49,655 --> 00:22:53,580
+la forma en que algunos pero no todos
+alcanzan la masa las partículas.
+
+215
+00:22:55,460 --> 00:23:01,420
+El mecanismo de Higgs trabaja llenando el
+universo con un campo, el campo de Higgs,
+
+216
+00:23:01,455 --> 00:23:05,500
+y por el universo no sólo
+media hasta allí entre las estrellas.
+
+217
+00:23:05,535 --> 00:23:10,345
+Quiero decir aquí delante de mí,
+y dentro de mí, y las partículas
+
+218
+00:23:10,380 --> 00:23:15,820
+adquieren masa al interactuar con
+el campo de Higgs, de hablar con él.
+
+219
+00:23:18,700 --> 00:23:25,100
+La teoría es que cada partícula en el
+universo es invisible que atraviesa este campo Higgs
+
+220
+00:23:25,135 --> 00:23:31,140
+y algunas partículas como los quarks y
+adquieren masa de los electrones a medida que lo atraviesan.
+
+221
+00:23:33,900 --> 00:23:37,625
+Considerando que la masa de las partículas de menos,
+partículas como los fotones,
+
+222
+00:23:37,660 --> 00:23:43,940
+no interactúan con el campo de Higgs y que sólo
+pasan por el universo a la velocidad de la luz.
+
+223
+00:23:53,820 --> 00:23:59,540
+El Higgs trae la simplicidad y la belleza
+a una naturaleza que parece muy complicado.
+
+224
+00:24:02,260 --> 00:24:08,740
+Se introduce una especie de simetría y una especie de
+la belleza de la naturaleza que nos da una comprensión de
+
+225
+00:24:08,775 --> 00:24:13,900
+una de las más desconcertantes características de este pequeño
+modelo que le dije acerca del Modelo Estándar.
+
+226
+00:24:14,980 --> 00:24:19,700
+El campo de Higgs puede resolver el problema
+de los desaparecidos en masa en el Modelo Estándar
+
+227
+00:24:19,735 --> 00:24:23,980
+pero el único problema es que no hemos
+sido capaces de detectar todavía.
+
+228
+00:24:25,740 --> 00:24:29,940
+Pero hay esperanza, porque
+es una ley de la física cuántica
+
+229
+00:24:29,975 --> 00:24:33,420
+que todos los campos deben tener
+asociado de partículas.
+
+230
+00:24:35,540 --> 00:24:42,740
+Como una clave de predicción de esta teoría de Higgs
+debe haber un quantum de este campo, una partícula
+
+231
+00:24:42,775 --> 00:24:46,597
+asociados a ella y eso es
+lo que se llama el bosón de Higgs.
+
+232
+00:24:46,632 --> 00:24:50,420
+¿Existe una partícula de Higgs,
+y si hay, ¿cómo aparecen?
+
+233
+00:24:50,455 --> 00:24:54,220
+¿Cómo llegar a simplificar
+nuestra visión del mundo?
+
+234
+00:24:54,255 --> 00:24:56,340
+Sería un tremendo descubrimiento.
+
+235
+00:24:57,980 --> 00:25:03,305
+Si podemos encontrar esta nueva fundamentales
+partículas, el bosón de Higgs,
+
+236
+00:25:03,340 --> 00:25:08,140
+entonces estaremos un paso más cerca de la comprensión
+la forma en que el universo llegó a ser la forma en que está.
+
+237
+00:25:08,175 --> 00:25:13,025
+No es de extrañar que Lederman
+las llamó las partículas de Dios.
+
+238
+00:25:13,060 --> 00:25:18,620
+El mecanismo de Higgs es nuestra mejor
+intento de reparar el Modelo Estándar
+
+239
+00:25:18,655 --> 00:25:22,465
+pero después de más de 40 años 
+de que fue primeramente pensada,
+
+240
+00:25:22,500 --> 00:25:29,260
+la partícula Higgs, la única cosa que podría
+demostrar la teoría correcta, no se ha encontrado.
+
+241
+00:25:33,940 --> 00:25:39,820
+Así que la única manera de probar la teoría
+es correcta es tratar de crear el bosón de Higgs
+
+242
+00:25:39,855 --> 00:25:42,660
+por un instante
+dentro de un colisionador de partículas.
+
+243
+00:25:49,580 --> 00:25:54,020
+Algunos pensaban que Fermilab con su potente
+Colisionador Tevatron lo encontraría.
+
+244
+00:25:56,540 --> 00:26:01,020
+Fermilab está trabajando día y noche,
+día y noche con una máquina
+
+245
+00:26:01,055 --> 00:26:06,017
+eso es cada vez mayor el número
+de las colisiónes
+
+246
+00:26:06,052 --> 00:26:10,980
+pero yo diría
+probabilísticamente, no lo vamos a encontrar.
+
+247
+00:26:13,300 --> 00:26:18,820
+Siempre, desde que se pensó en la  partícula Higgs y
+a pesar de miles de millones de dólares el valor de la investigación,
+
+248
+00:26:18,855 --> 00:26:26,260
+Fermilab no ha visto aún
+una pista que la partícula Dios existe.
+
+249
+00:26:32,500 --> 00:26:36,220
+Por lo tanto, la búsqueda de la bosón de Higgs está
+a punto de paso a una velocidad superior en el CERN ...
+
+250
+00:26:37,980 --> 00:26:43,180
+.. cuando Europa está a punto de superar a América
+en la carrera de cazar las partículas de alta energía.
+
+251
+00:26:49,180 --> 00:26:52,620
+Construyendo  un instrumento capaz de
+recrear el universo primitivo
+
+252
+00:26:52,655 --> 00:26:56,220
+y la búsqueda de la masiva
+Bosón de Higgs ha tomado décadas.
+
+253
+00:26:58,620 --> 00:27:03,780
+Hemos tenido que idear nuevas formas de
+manipulación de manera inequívoca, no uno,
+
+254
+00:27:03,815 --> 00:27:07,540
+sino,  las dos más poderosos
+rayos de luz Proton que jamás se han creado.
+
+255
+00:27:10,500 --> 00:27:15,940
+ Va a ser un haz de protones que va en esa direccion
+en ésta la cañería a casi la velocidad de la luz,
+
+256
+00:27:15,975 --> 00:27:19,625
+otro haz de protones
+que va camino a que la cañería,
+
+257
+00:27:19,660 --> 00:27:25,940
+a casi la velocidad de la luz y ellos
+cruzada dentro de Atlas y recrear las condiciones
+
+258
+00:27:25,975 --> 00:27:30,260
+que estuvieron presentes sólo después de
+el comienzo del universo.
+
+259
+00:27:30,295 --> 00:27:32,425
+Fantástico.
+
+260
+00:27:32,460 --> 00:27:37,785
+Un anillo de 9.500 super-conductor de
+imanes ha sido diseñado
+
+261
+00:27:37,820 --> 00:27:43,060
+en condiciones de seguridad para contener y controlar
+la dirección de los haces de protones.
+
+262
+00:27:43,095 --> 00:27:47,825
+13.000 amperios de corriente
+a los imanes,
+
+263
+00:27:47,860 --> 00:27:55,740
+1,9 Kelvin menos 271 grados, más frío que el
+espacio entre las galaxias que se enfríe por los imanes
+
+264
+00:27:55,775 --> 00:28:00,780
+y, a continuación, hazes de las dos tuberías,
+una aqui  y otra allí.
+
+265
+00:28:01,900 --> 00:28:08,260
+Todos estos, sumados con estos imanes hacen un colisionador
+cuatro veces más largo que Tevatron del Fermilab.
+
+266
+00:28:09,340 --> 00:28:14,265
+Para poner la escala del experimento en
+contexto, que cada circuito de los protones hace
+
+267
+00:28:14,300 --> 00:28:21,660
+es la misma distancia que la mitad de la marca
+de Inglaterra a Francia a lo largo del túnel de la Mancha
+
+268
+00:28:21,695 --> 00:28:25,100
+y que hará ésta operacion
+11.000 veces por segundo.
+
+269
+00:28:34,380 --> 00:28:39,500
+Para entender cómo esperamos
+transformar dos pequeñas protones
+
+270
+00:28:39,535 --> 00:28:44,620
+en una masiva bosón de Higgs
+requiere la ayuda de un genio.
+
+271
+00:28:46,660 --> 00:28:51,900
+El  asombroso conocimiento de Einstein
+en la relación entre materia
+
+272
+00:28:51,935 --> 00:28:57,780
+y la energía es el motor
+que todas las unidades de física de partículas.
+
+273
+00:28:58,460 --> 00:29:02,345
+Su teoría utiliza sólo cinco caracteres
+
+274
+00:29:02,380 --> 00:29:07,420
+pero con ellos se había demostrado
+el camino a una forma moderna de la alquimia.
+
+275
+00:29:09,220 --> 00:29:13,025
+Einstein y su famosa ecuación, E = mc2,
+
+276
+00:29:13,060 --> 00:29:17,060
+que básicamente dice que la energía y
+en masa son dos caras de una misma moneda.
+
+277
+00:29:17,095 --> 00:29:20,380
+Son básicamente la misma cosa
+y son intercambiables.
+
+278
+00:29:20,415 --> 00:29:23,500
+En esta idea creo que
+Einstein fue realmente el primero.
+
+279
+00:29:23,535 --> 00:29:25,425
+La masa es sólo una forma de energía.
+
+280
+00:29:25,460 --> 00:29:28,225
+Se trata de una muy profunda
+idea de Einstein.
+
+281
+00:29:28,260 --> 00:29:33,825
+No hay absolutamente ninguna pregunta. Y
+no había precedente para esta idea.
+
+282
+00:29:33,860 --> 00:29:39,100
+Una cosa que damos por sentado de  las partículas
+ y los físicos es que si podemos convertir la energía en masa.
+
+283
+00:29:39,135 --> 00:29:43,025
+Lo hacemos todo el tiempo. Así es como
+el LHC esencialmente trabaja.
+
+284
+00:29:43,060 --> 00:29:47,105
+Si protones en torno a velocidades más rápidas y
+más rápido, les da más y más energía
+
+285
+00:29:47,140 --> 00:29:52,540
+y luego se destruyen juntos, y la idea es
+hacer nuevas partículas, al igual que el bosón de Higgs, por ejemplo,
+
+286
+00:29:52,575 --> 00:29:59,340
+que muchas, muchas decenas o incluso cientos de veces
+más pesados que los protones que chocaron para hacerlo.
+
+287
+00:30:02,580 --> 00:30:08,620
+Por lo tanto, la más famosa ecuación de Einstein está en
+el corazón de la búsqueda de la partícula Higgs.
+
+288
+00:30:08,655 --> 00:30:13,700
+En efecto, el lhc
+es una máquina de la relatividad.
+
+289
+00:30:15,300 --> 00:30:21,900
+Cuando los protones extremos de altavelocidad se aplastan el
+uno al otro, ellos tendrán enormes cantidad de energía.
+
+290
+00:30:24,020 --> 00:30:28,460
+Cada colisión puede producir
+cientos de nuevas partículas.
+
+291
+00:30:28,495 --> 00:30:32,417
+Por un momento,
+hemos creado un mini Big Bang.
+
+292
+00:30:32,452 --> 00:30:36,305
+Es en estos "eventos",
+como son conocidos,
+
+293
+00:30:36,340 --> 00:30:42,140
+que la esperanza de un fugaz momento en que
+la masiva partícula Higgs se verá
+
+294
+00:30:42,175 --> 00:30:46,260
+por primera vez
+en 13,7 mil millones de años.
+
+295
+00:30:47,980 --> 00:30:53,060
+Estas serán las colisiones de más alta
+energia que alguna vez hemos hecho.
+
+296
+00:30:53,095 --> 00:30:55,660
+Ha llevado a algunos a preguntarse
+si sabemos lo que estamos haciendo.
+
+297
+00:31:02,700 --> 00:31:07,260
+Uno de los más salvajes especulaciones
+es que el LHC será capaz
+
+298
+00:31:07,295 --> 00:31:11,180
+de la creación de los agujeros negro
+que va a devorar la Tierra.
+
+299
+00:31:14,220 --> 00:31:17,705
+Me aparecen páginas tras páginas
+de e-mails diciendo,
+
+300
+00:31:17,740 --> 00:31:21,385
+"Usted maniático, que va
+a destruir el planeta! "
+
+301
+00:31:21,420 --> 00:31:24,720
+¿Qué decir a estas personas?
+Usted debe obtener el mismo e-mails.
+
+302
+00:31:24,755 --> 00:31:28,020
+He visto eso también. Es lo que
+todo el mundo quiere saber sobre
+
+303
+00:31:28,055 --> 00:31:30,825
+porque es una idea cool, ¿verdad?
+Aquí tenemos LHC,
+
+304
+00:31:30,860 --> 00:31:34,660
+buscando en el universo a la mayor brevedad de
+tiempo. ¿Qué pasa si se hicieran agujeros negro?
+
+305
+00:31:34,695 --> 00:31:37,557
+Wow! Dos cosas interesantes
+ocurriendo al mismo tiempo.
+
+306
+00:31:37,592 --> 00:31:40,420
+Pero, personalmente hablando
+Creo que es increíblemente improbable.
+
+307
+00:31:40,455 --> 00:31:43,037
+No creo que haya ninguna manera de
+que se puede hacer.
+
+308
+00:31:43,072 --> 00:31:45,585
+No se olvide,
+las personas toman muy en serio.
+
+309
+00:31:45,620 --> 00:31:48,985
+Cuando se produjo esta teoría que vinieron
+que podríamos hacer los agujeros negro,
+
+310
+00:31:49,020 --> 00:31:53,900
+CERN tomó tan en serio lo que hizo esta
+especial en la evaluación del riesgo, realmente sólo para asegurarse de que
+
+311
+00:31:53,935 --> 00:31:58,620
+que no iba a haber algo o algun acontecimiento
+desfavorable sucediendo. Por lo tanto, nadie necesita preocuparse.
+
+312
+00:31:58,655 --> 00:32:02,237
+Realmente creo que no hay
+absolutamente ninguna manera que vayamos
+
+313
+00:32:02,272 --> 00:32:05,820
+a hacer nada por el estilo.
+Es simplemente demasiado extraño una teoría.
+
+314
+00:32:06,860 --> 00:32:11,740
+Incluso si los agujeros negro osan a aparecer,
+no van a destruir la Tierra.
+
+315
+00:32:11,775 --> 00:32:16,585
+"Mucho más probable es que el
+LHC generará partículas de Higgs
+
+316
+00:32:16,620 --> 00:32:22,020
+'y hemos tenido que ir a la extraordinaria
+longitudes para estar seguro de detectarlos. '
+
+317
+00:32:22,055 --> 00:32:27,225
+No uno, sino cuatro colosales detectores de 
+partículas se han instalado
+
+318
+00:32:27,260 --> 00:32:31,940
+alrededor de la pista para tomar fotografías de
+lo que sucede cuando los protones chocan.
+
+319
+00:32:37,500 --> 00:32:41,780
+Los primeros detectores de partículas también
+tomaron fotografías de eventos similares.
+
+320
+00:32:41,815 --> 00:32:44,785
+Es estas fotos
+que primero capturado
+
+321
+00:32:44,820 --> 00:32:48,160
+las partículas fundamentales
+en el Modelo Estándar.
+
+322
+00:32:48,195 --> 00:32:51,500
+Aquí está la prueba de un neutrino
+atrapados en una película.
+
+323
+00:32:54,900 --> 00:32:58,900
+Esta fue la primera visión de la
+Bosón W en el CERN en el decenio de 1980.
+
+324
+00:33:01,420 --> 00:33:04,420
+Y la del bosón Z
+científicos debut.
+
+325
+00:33:06,460 --> 00:33:08,900
+Pero faltaba una foto,
+
+326
+00:33:09,060 --> 00:33:12,820
+la que iría en la pared
+si lo encontramos, es el bosón de Higgs.
+
+327
+00:33:12,980 --> 00:33:14,100
+la que iría en la pared
+si lo encontramos, es el bosón de Higgs.
+
+328
+00:33:17,100 --> 00:33:21,060
+La razón es tan difícil de alcanzar
+tiene que ver con su masa.
+
+329
+00:33:22,660 --> 00:33:27,100
+Nuestras teorías predicen que la
+Partícula Higgs es muy pesada
+
+330
+00:33:27,135 --> 00:33:30,140
+y es una norma general
+en la física de partículas
+
+331
+00:33:30,175 --> 00:33:32,985
+que las partículas pesadas son inestables.
+
+332
+00:33:33,020 --> 00:33:37,020
+Ellas simplemente se derrumban
+en partículas más ligeras.
+
+333
+00:33:37,055 --> 00:33:40,465
+Por lo tanto, si el Higgs
+es una parte real de la naturaleza,
+
+334
+00:33:40,500 --> 00:33:44,580
+habría desaparecido hace mucho tiempo
+desde el universo primitivo.
+
+335
+00:33:44,615 --> 00:33:48,220
+Y hoy, incluso si logramos
+recrear la Higgs,
+
+336
+00:33:48,255 --> 00:33:51,220
+va a desaparecer ...
+
+337
+00:33:51,255 --> 00:33:53,660
+.. antes de que podamos verlo.
+
+338
+00:33:55,380 --> 00:33:59,785
+En lugar de ello, vamos a cazar sus
+artefactos de su decadencia,
+
+339
+00:33:59,820 --> 00:34:05,620
+otros modelos Estándar de partículas como
+Bosones W y Z, quarks y muons.
+
+340
+00:34:05,655 --> 00:34:10,737
+Se trata de una simulación de una colision sola
+protones / protones en el LHC.
+
+341
+00:34:10,772 --> 00:34:15,820
+De hecho, es la simulación de
+la producción de una partícula Higgs.
+
+342
+00:34:15,855 --> 00:34:18,180
+Ahora, la partícula Higgs
+no la ves, por supuesto.
+
+343
+00:34:18,215 --> 00:34:21,097
+Simplemente se desintegra en una fracción
+de un segundo.
+
+344
+00:34:21,132 --> 00:34:24,356
+Pero lo que haces es ver
+el humo del arma,
+
+345
+00:34:24,391 --> 00:34:27,545
+en este caso,
+dos pistas de color rojo claro,
+
+346
+00:34:27,580 --> 00:34:30,665
+estas dos partículas,
+llamado muons,
+
+347
+00:34:30,700 --> 00:34:34,060
+que han ido directamente
+a los muy bordes del detector.
+
+348
+00:34:35,940 --> 00:34:40,660
+Y si lo vemos no sólo un colisión
+como este, pero quizás 10, quizás 100,
+
+349
+00:34:40,695 --> 00:34:43,980
+luego han descubierto la Higgs
+y por primera vez
+
+350
+00:34:44,015 --> 00:34:47,540
+vamos a entender el origen
+de masa en el universo.
+
+351
+00:34:52,380 --> 00:34:55,225
+Esto es, si el experimento funciona.
+
+352
+00:34:55,260 --> 00:35:01,460
+el encendido de la partícula mas grande del colisionador
+del planeta es un tiempo esperado por todos.
+
+353
+00:35:05,020 --> 00:35:08,780
+La magnitud
+de esta compleja máquina
+
+354
+00:35:08,815 --> 00:35:11,225
+y el poder en la rayo
+
+355
+00:35:11,260 --> 00:35:14,825
+es algo que nadie jamás ha realizado
+en el mundo,
+
+356
+00:35:14,860 --> 00:35:19,540
+y no tenemos que olvidar nada
+importante que nosotros destruyamos algo.
+
+357
+00:35:24,780 --> 00:35:28,745
+Se tarda meses para enfriar cada sección
+del LHC abajo
+
+358
+00:35:28,780 --> 00:35:34,420
+a su temperatura de funcionamiento de
+más menos 271 grados centígrados,
+
+359
+00:35:34,455 --> 00:35:38,620
+no significa una hazaña ya que este es más frío
+que el espacio profundo.
+
+360
+00:35:41,140 --> 00:35:47,340
+Y si algo falla, será uno de los principales
+retrocesos en la búsqueda del Higgs.
+
+361
+00:35:49,580 --> 00:35:55,700
+nos llevaría dos, tres meses para la reparación de esa parte
+de la máquina, aunque es sobre la base de un sector de base,
+
+362
+00:35:55,735 --> 00:35:59,185
+y que toma tiempo enorme
+para calentar la totalidad del sector
+
+363
+00:35:59,220 --> 00:36:03,940
+de 3,3 kilómetros, la criogénica, por lo que
+hay un montón de cuestiones de tiempo en juego.
+
+364
+00:36:03,975 --> 00:36:08,857
+Incluso una semana es demasiado tiempo entonces,
+dos, tres meses es mucho tiempo.
+
+365
+00:36:08,892 --> 00:36:13,740
+La gente está esperando  el rayo, esperando
+la física. No podemos permitirnos eso.
+
+366
+00:36:14,780 --> 00:36:18,305
+Así que el CERN decidió la gestión
+el año pasado para cancelar
+
+367
+00:36:18,340 --> 00:36:22,220
+un plazo de ingeniería
+previsto para poner a prueba todo el anillo.
+
+368
+00:36:23,300 --> 00:36:28,380
+En lugar de comenzar lentamente con algunas colisiones
+seguras pero de aburrido bajo consumo de energía,
+
+369
+00:36:28,415 --> 00:36:32,620
+la máquina por primera vez
+acelerará partículas
+
+370
+00:36:32,655 --> 00:36:35,620
+a altas energías de inmediato.
+
+371
+00:36:36,740 --> 00:36:41,140
+Si funciona, esta increíble
+máquina, este gran esfuerzo
+
+372
+00:36:41,175 --> 00:36:44,865
+de miles de científicos
+y miles de millones de Euros
+
+373
+00:36:44,900 --> 00:36:49,300
+Es seguro que habrá un cambio en
+nuestra comprensión del universo.
+
+374
+00:36:52,340 --> 00:36:56,040
+Si existe la Higgs,
+entonces lo más fácil es que se creen aquí
+
+375
+00:36:56,075 --> 00:36:59,705
+en el centro de Atlas
+en los próximos años.
+
+376
+00:36:59,740 --> 00:37:05,580
+Si nosotros no lo vemos, entonces no ayudara a
+construir una máquina más grande y un mayor acelerador.
+
+377
+00:37:05,615 --> 00:37:10,140
+Realmente significa que la
+Partículas Dios no existe.
+
+378
+00:37:14,700 --> 00:37:18,980
+Y para algunos teóricos,
+si no encontramos  nada en el LHC
+
+379
+00:37:19,015 --> 00:37:22,220
+es en realidad
+la perspectiva más emocionante.
+
+380
+00:37:25,660 --> 00:37:30,340
+Se puede argumentar que la mayor e
+interesante descubrimiento en el LHC
+
+381
+00:37:30,375 --> 00:37:33,197
+sería que
+no podemos encontrar el Higgs,
+
+382
+00:37:33,232 --> 00:37:35,985
+resultando prácticamente
+que no está allí.
+
+383
+00:37:36,020 --> 00:37:40,225
+Eso significaría que realmente no
+estamos entendiendo algo,
+
+384
+00:37:40,260 --> 00:37:44,300
+muy profundamente no entiende algo.
+Eso es un muy buen escenario para la ciencia.
+
+385
+00:37:44,335 --> 00:37:47,377
+Las revoluciones a veces vienen
+por el hecho de que le golpeó una pared
+
+386
+00:37:47,412 --> 00:37:50,420
+y te das cuenta de que realmente
+no han entendido nada.
+
+387
+00:37:59,620 --> 00:38:03,905
+Los teóricos tienen mucho tiempo
+para una revolución, pero la mayoría de nosotros
+
+388
+00:38:03,940 --> 00:38:08,180
+esta bastante seguro de que el boson Higgs
+es una parte real de la naturaleza.
+
+389
+00:38:11,660 --> 00:38:17,300
+¿Cuáles son las posibilidades de resolver de una vez
+el misterio de la masa?
+
+390
+00:38:35,340 --> 00:38:38,680
+Por primera vez
+en una generación
+
+391
+00:38:38,715 --> 00:38:41,985
+estamos en una encrucijada
+en la física
+
+392
+00:38:42,020 --> 00:38:46,265
+y eso es lo que hace
+este lugar tan emocionante,
+
+393
+00:38:46,300 --> 00:38:51,340
+porque nadie sabe lo que los siguientes pasos
+estan en nuestra búsqueda
+
+394
+00:38:51,375 --> 00:38:53,705
+para entender el universo,
+
+395
+00:38:53,740 --> 00:38:57,540
+pero estoy convencido de que este lugar
+nos mostrará el camino
+
+396
+00:38:57,575 --> 00:39:00,300
+a nueva física.
+
+397
+00:39:19,900 --> 00:39:23,140
+Incluso si el bosón de Higgs realmente aparece
+en la parte de lanzamiento,
+
+398
+00:39:23,175 --> 00:39:27,225
+el trabajo en la maquina del Big Bang
+no se detendrá.
+
+399
+00:39:27,260 --> 00:39:31,820
+Más allá del misterio de la masa
+se esconde un gran desafío mucho mas espinozo
+
+400
+00:39:31,855 --> 00:39:36,380
+para el Modelo Estándar, un rompecabezas
+que incluso derrotó a Einstein.
+
+401
+00:39:46,260 --> 00:39:49,780
+¿Por qué el mundo parece
+obedecer a diferentes reglas?
+
+402
+00:39:50,260 --> 00:39:53,820
+Como por ejemplo el mundo de la pequeña,
+el mundo cuántico,
+
+403
+00:39:53,855 --> 00:39:56,677
+que el Modelo Estándar
+explica tan bien,
+
+404
+00:39:56,712 --> 00:39:59,586
+y luego está el mundo
+de los grandes,
+
+405
+00:39:59,621 --> 00:40:02,425
+el mundo de las estrellas
+y los planetas y las galaxias.
+
+406
+00:40:02,460 --> 00:40:06,300
+El modelo estándar no tiene nada
+que decir sobre la forma en que interactúan.
+
+407
+00:40:10,340 --> 00:40:13,580
+Y es un problema
+aún hemos de resolver.
+
+408
+00:40:26,300 --> 00:40:31,305
+Cuando quiera entender
+la forma en que el universo ha evolucionado --
+
+409
+00:40:31,340 --> 00:40:35,660
+¿Qué es lo que inmediatamente después de que
+comenzó y la forma en que llego a la forma en que es hoy en día --
+
+410
+00:40:35,695 --> 00:40:39,340
+usted no sólo ha llegado a conocer
+acerca de cuántas galaxias hay,
+
+411
+00:40:39,375 --> 00:40:42,100
+la forma en que las estrellas trabajan
+y el camino que la forma de planetas ...
+
+412
+00:40:44,500 --> 00:40:48,580
+.. ud también ha llegado a saber qué
+los componentes basicos fundamentales
+
+413
+00:40:48,615 --> 00:40:51,500
+de todas esas cosas son y
+cómo interactúan juntos.
+
+414
+00:40:53,660 --> 00:40:57,480
+Y, en particular, no es sólo las
+cosas que en el universo,
+
+415
+00:40:57,515 --> 00:41:01,300
+pero la manera en que las materias se dirigen
+a otras materias. Se trata de la fuerza.
+
+416
+00:41:02,380 --> 00:41:07,460
+Si esas fuerzas no actuan sobre
+la materia, nada pasaría.
+
+417
+00:41:07,495 --> 00:41:09,905
+Las estrellas no brillarían,
+
+418
+00:41:09,940 --> 00:41:14,740
+los átomos que componen los
+cuerpos planetarios se desmoronarían.
+
+419
+00:41:16,860 --> 00:41:19,540
+El universo se desintegraria.
+
+420
+00:41:22,660 --> 00:41:27,860
+Se trata de las fuerzas en el
+Modelo standar mantienen todo unido.
+
+421
+00:41:30,340 --> 00:41:34,040
+Hay cuatro fuerzas de las cuales sabemos
+estan en el universo en este momento,
+
+422
+00:41:34,075 --> 00:41:37,740
+la cosa llamada la fuerza
+que pega núcleos juntos ...
+
+423
+00:41:37,775 --> 00:41:41,260
+Esta fuerza es lo que une a
+los quarks juntos
+
+424
+00:41:41,295 --> 00:41:44,705
+para formar el núcleo
+en el núcleo del átomo.
+
+425
+00:41:44,740 --> 00:41:49,460
+Hay electro-magnetismo, ese tipo
+de fuerza es muy familiar para todo el mundo.
+
+426
+00:41:49,495 --> 00:41:55,100
+Esta fuerza mantiene los electrones
+en órbita alrededor del núcleo atómico.
+
+427
+00:41:56,180 --> 00:41:59,760
+Y una cosa llamada fuerza debil
+que es bastante desconocida
+
+428
+00:41:59,795 --> 00:42:03,340
+pero permite que el sol brille,
+por lo que es increíblemente importante.
+
+429
+00:42:04,420 --> 00:42:09,820
+La fuerza débil explica por qué algunos
+átomos se someten a desintegración radiactiva,
+
+430
+00:42:09,855 --> 00:42:13,540
+el proceso que abastece de combustibles a
+cada estrella en el universo.
+
+431
+00:42:21,060 --> 00:42:24,820
+Pero, sobre todo, una fuerza
+no se encuentra en el Modelo Estándar.
+
+432
+00:42:33,140 --> 00:42:35,140
+Gravedad.
+
+433
+00:42:38,340 --> 00:42:41,060
+En el mundo cotidiano que
+usted y yo habitamos,
+
+434
+00:42:41,095 --> 00:42:43,740
+claramente la gravedad es todo que nos rodea.
+
+435
+00:42:47,460 --> 00:42:50,760
+Es lo que te mantiene
+en su silla en el hogar,
+
+436
+00:42:50,795 --> 00:42:54,060
+es lo que mantiene la Tierra en órbita
+alrededor del Sol
+
+437
+00:42:54,095 --> 00:42:57,020
+y es lo que mantiene
+nuestra galaxia.
+
+438
+00:43:06,300 --> 00:43:10,260
+Y también Einstein pensaba que la
+gravedad fue bastante importante.
+
+439
+00:43:11,340 --> 00:43:15,400
+Su teoría general de la relatividad
+bellamente describe
+
+440
+00:43:15,435 --> 00:43:19,460
+cómo cada cuerpo celeste
+interactúa con cualquier otro organismo
+
+441
+00:43:19,495 --> 00:43:21,940
+a través de esta fuerza.
+
+442
+00:43:27,060 --> 00:43:31,420
+'El universo a gran escala
+puede ser completamente explicado
+
+443
+00:43:31,455 --> 00:43:34,660
+'por las ecuaciones de Einstein. '
+
+444
+00:43:36,420 --> 00:43:38,820
+Pero hay un problema.
+
+445
+00:43:42,220 --> 00:43:46,820
+En el momento en que se trata de fusionar la
+Relatividad general con el modelo estándar,
+
+446
+00:43:46,855 --> 00:43:50,185
+nos encontramos con enormes dificultades,
+
+447
+00:43:50,220 --> 00:43:55,100
+de modo inmenso, de hecho, que nadie ha
+sido capaz de averiguar cómo hacerlo.
+
+448
+00:43:55,135 --> 00:43:59,497
+Son imagenes totalmente incompatibles
+del universo.
+
+449
+00:43:59,532 --> 00:44:03,860
+El problema es que son imágenes
+del mismo universo.
+
+450
+00:44:03,895 --> 00:44:06,180
+Algo tiene que estar equivocado.
+
+451
+00:44:07,260 --> 00:44:13,260
+El Modelo Estándar es increíblemente poderoso en
+que describe el mundo de los pequeños, el mundo cuántico.
+
+452
+00:44:15,860 --> 00:44:21,620
+Pero tan pronto como usted trata de añadir gravedad en
+el Modelo Estándar las ecuaciones, se fracturan.
+
+453
+00:44:24,380 --> 00:44:28,700
+Einstein estaba buscando
+un solo conjunto de ecuaciones
+
+454
+00:44:28,735 --> 00:44:32,540
+que trabajaria en
+los planetas y las partículas,
+
+455
+00:44:32,575 --> 00:44:36,060
+nada menos
+que una teoría del todo.
+
+456
+00:44:37,740 --> 00:44:41,465
+Esto era el mayor
+fracaso de Einstein
+
+457
+00:44:41,500 --> 00:44:45,940
+En la distancia más a pequeña escala,
+su teoría sólo se desmorona.
+
+458
+00:44:47,020 --> 00:44:51,660
+Einstein pasó los últimos 30 años de
+su vida tratando de corregir el problema
+
+459
+00:44:51,695 --> 00:44:53,820
+pero él nunca lo logró.
+
+460
+00:45:01,620 --> 00:45:07,980
+«53 años después de la muerte Einstein su
+teoría del todo todavía se nos escapa. '
+
+461
+00:45:16,620 --> 00:45:19,620
+Esto es el corredor de teoria del CERN.
+
+462
+00:45:21,700 --> 00:45:25,060
+Dentro de cada habitación
+ahi un físico teórico.
+
+463
+00:45:28,620 --> 00:45:31,820
+Y dentro de la cabeza
+de cada físico teórico
+
+464
+00:45:31,855 --> 00:45:35,380
+es una concepción diferente
+de nuestro universo.
+
+465
+00:45:38,780 --> 00:45:43,980
+«El primer físico que acuñó
+el término "una teoría de todo"
+
+466
+00:45:44,015 --> 00:45:46,580
+"era John Ellis del CERN. '
+
+467
+00:45:48,580 --> 00:45:51,705
+Cuando hablamos de una
+teoría del todo,
+
+468
+00:45:51,740 --> 00:45:56,900
+nos referimos a una teoría
+de los componentes fundamentales
+
+469
+00:45:56,935 --> 00:46:00,545
+de la materia y las fuerzas
+entre ellos.
+
+470
+00:46:00,580 --> 00:46:07,620
+Puede pensar en alguna manera como un
+especie de código genético cósmico, ¿verdad?
+
+471
+00:46:07,655 --> 00:46:10,865
+De hecho, en el Modelo Estándar
+ya ud puede considerar
+
+472
+00:46:10,900 --> 00:46:16,545
+como una especie de código genético para arreglar
+la materia regular visible en el universo.
+
+473
+00:46:16,580 --> 00:46:21,580
+Toda la materia visible en el universo está formada
+de los mismos quarks y electrones y las cosas
+
+474
+00:46:21,615 --> 00:46:23,905
+que podemos medir
+en el laboratorio.
+
+475
+00:46:23,940 --> 00:46:29,940
+De alguna manera u otra, estas cosas
+pueden combinarse en todo tipo de medios
+
+476
+00:46:29,975 --> 00:46:35,060
+para hacer que la gente tan complicado
+y extraño como usted o yo.
+
+477
+00:46:36,660 --> 00:46:42,500
+La búsqueda de este código genético cósmico
+es la última búsqueda de los físicos.
+
+478
+00:46:42,535 --> 00:46:46,220
+Queremos acabar
+lo que Einstein comenzó.
+
+479
+00:46:50,540 --> 00:46:54,980
+Usted podría preguntarse por qué creemos que la
+desconcertante complejidad del universo
+
+480
+00:46:55,015 --> 00:46:59,065
+puede ser reducido
+a una sola teoría.
+
+481
+00:46:59,100 --> 00:47:02,660
+La respuesta puede  encontrarse en
+Volver al Big Bang.
+
+482
+00:47:04,500 --> 00:47:09,580
+Si viajo de regreso a través del tiempo,
+el universo se reduce,
+
+483
+00:47:09,615 --> 00:47:14,660
+desaparecen las galaxias
+y las estrellas se evaporan en el gas.
+
+484
+00:47:18,780 --> 00:47:26,660
+Como señalamos a dentro de un par de cientos de miles de
+años del Big Bang, el universo se vuelve opaco.
+
+485
+00:47:29,780 --> 00:47:34,060
+Finalmente nos acercamos
+al momento en que los átomos desaparecen.
+
+486
+00:47:36,980 --> 00:47:40,060
+Ahora las cosas se ponen realmente extrañas.
+
+487
+00:47:41,660 --> 00:47:46,060
+Segundos lejos del Big Bang,
+los núcleos atómicos tienden a resquebrajarse.
+
+488
+00:47:49,180 --> 00:47:52,545
+El universo es ahora
+tan pequeño y tan caliente
+
+489
+00:47:52,580 --> 00:47:57,540
+que sólo las partículas fundamentales
+desnudas del Modelo Estándar existen.
+
+490
+00:48:02,140 --> 00:48:04,980
+Este es el momento de la Higgs.
+
+491
+00:48:06,940 --> 00:48:11,980
+Es en este momento que el LHC
+se pasan la mayor parte de su vida laboral.
+
+492
+00:48:15,140 --> 00:48:20,940
+Esto es lo que esta máquina fue diseñada
+para hacer, para abrir una ventana en el tiempo
+
+493
+00:48:20,975 --> 00:48:23,985
+cuando el Higgs gobernó el universo.
+
+494
+00:48:24,020 --> 00:48:29,340
+Pero algunos de nosotros creemos que puede darnos
+una visión de algo aún más profundo.
+
+495
+00:48:31,940 --> 00:48:36,940
+Más allá del Higgs,
+el universo sigue a condensar.
+
+496
+00:48:36,975 --> 00:48:40,220
+Eventualmente, incluso los
+las partículas fundamentales
+
+497
+00:48:40,255 --> 00:48:42,745
+del Modelo Estándar desaparecen.
+
+498
+00:48:42,780 --> 00:48:46,300
+Nos acercamos al momento
+del Big Bang.
+
+499
+00:48:46,335 --> 00:48:49,785
+En el instante de creación
+debe haber habido un tiempo
+
+500
+00:48:49,820 --> 00:48:55,180
+cuando el Universo no era nada más
+que un solo, increíblemente caliente,
+
+501
+00:48:55,215 --> 00:48:58,185
+fantásticamente pequeña entidad,
+
+502
+00:48:58,220 --> 00:49:01,940
+el universo entero
+Se hizo de una sola cosa,
+
+503
+00:49:01,975 --> 00:49:04,460
+embarazadas con posibilidades.
+
+504
+00:49:07,820 --> 00:49:11,260
+Sorprendentemente, hemos creado
+una teoría altamente especulativa
+
+505
+00:49:11,295 --> 00:49:13,940
+que los intentos de describir esta época.
+
+506
+00:49:13,975 --> 00:49:16,700
+Se llama la teoría de las cuerdas.
+
+507
+00:49:18,140 --> 00:49:23,500
+La teoría de las cuerdas en un concepto es que
+partículas, los objetos que existen,
+
+508
+00:49:23,535 --> 00:49:26,940
+son en realidad las vibraciones
+de una sola cuerda
+
+509
+00:49:26,975 --> 00:49:31,425
+y como, al igual que las notas de un piano,
+
+510
+00:49:31,460 --> 00:49:36,660
+que vibre una vez o dos veces o tres veces, y
+cada nota corresponde a una partícula diferente.
+
+511
+00:49:36,695 --> 00:49:40,505
+Por lo tanto, si todo era sólo una nota
+ud podria jugar en el piano,
+
+512
+00:49:40,540 --> 00:49:44,345
+un solo de piano, tal vez una sola cadena,
+que sería una idea muy simple.
+
+513
+00:49:44,380 --> 00:49:50,220
+La teoría de las cuerdas es, sin duda, el mejor candidato que
+podemos tener para una teoría de todo lo que hay que combinar
+
+514
+00:49:50,255 --> 00:49:54,780
+todas las fuerzas, todas las diferentes
+partículas y realizar una decente taza de café.
+
+515
+00:49:56,980 --> 00:50:00,785
+Estas peculiares cuerdas,
+si es que existen,
+
+516
+00:50:00,820 --> 00:50:06,780
+son nuestro mejor intento de entender
+lo que podría apuntalar todo.
+
+517
+00:50:06,815 --> 00:50:09,825
+Son increíblemente pequeñas,
+
+518
+00:50:09,860 --> 00:50:13,385
+fueron las primeras cosas que
+en el universo,
+
+519
+00:50:13,420 --> 00:50:19,700
+y que se han multiplicado para crear
+cada partícula que vemos hoy.
+
+520
+00:50:27,780 --> 00:50:30,900
+Increíblemente,
+La teoría de las cuerdas puede tener éxito
+
+521
+00:50:30,935 --> 00:50:33,900
+donde el Modelo Estándar no ...
+
+522
+00:50:35,180 --> 00:50:38,700
+.. porque cuando la gravedad
+se añade al modelo estándar,
+
+523
+00:50:38,735 --> 00:50:42,620
+las ecuaciones de romper
+y producir infinitos.
+
+524
+00:50:47,740 --> 00:50:51,905
+Estas horrendas
+infinitas respuestas acerca de venir,
+
+525
+00:50:51,940 --> 00:50:56,860
+pensamos, porque estamos tratando las
+partículas como pequeños puntos diminutos
+
+526
+00:50:56,895 --> 00:51:00,137
+y cuando usted trae estos pequeños diminutos
+puntos
+
+527
+00:51:00,172 --> 00:51:03,380
+la fuerza gravitatoria
+pasa a ser increíblemente fuerte
+
+528
+00:51:03,415 --> 00:51:05,700
+y no sabemos cómo manejar esto.
+
+529
+00:51:09,100 --> 00:51:13,740
+la Gravedad pueden llegar a ser tan fuerte
+porque el punto como partículas
+
+530
+00:51:13,775 --> 00:51:17,020
+puede hacerce infinitamente cercanos ...
+
+531
+00:51:18,100 --> 00:51:22,420
+.. y eso significa que la
+fuerza gravitatoria entre ellas
+
+532
+00:51:22,455 --> 00:51:25,220
+se convierte en infinitamente fuerte.
+
+533
+00:51:27,340 --> 00:51:31,180
+Suponiendo que las partículas,
+en lugar de ser puntos pequeños,
+
+534
+00:51:31,215 --> 00:51:35,665
+fueran de tipo cálido, borroso,
+ampliadas, ¿verdad?
+
+535
+00:51:35,700 --> 00:51:41,420
+Entonces usted podría ponerlas juntas y la
+fuerza gravitacional no explotarán en su cara.
+
+536
+00:51:41,455 --> 00:51:46,420
+Así que tal vez esa es la respuesta, tal vez las
+partículas no son realmente los puntos
+
+537
+00:51:46,455 --> 00:51:50,700
+pero en realidad  objetos extendidos,
+tal vez son pedazos de cadena.
+
+538
+00:51:52,300 --> 00:51:57,745
+por extraño que pueda parecer, imaginar
+un universo de cuerdas,
+
+539
+00:51:57,780 --> 00:52:03,260
+tenemos una forma de crear el espacio
+suplementario que la gravedad tiene que trabajar.
+
+540
+00:52:08,380 --> 00:52:12,900
+La cosa extraordinaria sobre
+La teoría de cuerdas es esto, por primera vez
+
+541
+00:52:12,935 --> 00:52:16,425
+en la historia de la física,
+esto ofrece un puente
+
+542
+00:52:16,460 --> 00:52:21,705
+entre las dos descripciones
+contradictorias del mundo que vemos hoy --
+
+543
+00:52:21,740 --> 00:52:26,860
+el modelo estándar de física de partículas y
+la teoria general de Einstein de la relatividad.
+
+544
+00:52:26,895 --> 00:52:31,185
+Es un contendiente
+para una teoría del todo.
+
+545
+00:52:31,220 --> 00:52:36,740
+¿Qué habria pensado Einstein de nuestra actual etapa
+de intentos de lograr la Relatividad General?
+
+546
+00:52:36,775 --> 00:52:39,465
+¿Qué hubiese pensado el
+de la teoría de las cuerdas?
+
+547
+00:52:39,500 --> 00:52:44,905
+Creo que habría quedado
+encantado por un tiempo.
+
+548
+00:52:44,940 --> 00:52:50,100
+Es decir, habría quedado
+fascinado por la belleza de la teoría
+
+549
+00:52:50,135 --> 00:52:56,337
+hasta que se diera cuenta de que esto no tenía
+ninguna predicciones convincente
+
+550
+00:52:56,372 --> 00:53:02,540
+que podemos comprobar ahora.
+Él sería muy infeliz por ello.
+
+551
+00:53:03,620 --> 00:53:07,065
+Einstein habría despreciado
+La teoría de las cuerdas
+
+552
+00:53:07,100 --> 00:53:12,580
+porque hasta ahora nadie ha producido una sola
+predicción que podemos poner a prueba.
+
+553
+00:53:12,615 --> 00:53:17,980
+esto deja un concepto
+intrigante pero improbable.
+
+554
+00:53:21,500 --> 00:53:25,745
+Esta es la ciencia
+en su mayor parte esotérica.
+
+555
+00:53:25,780 --> 00:53:32,745
+Es como la filosofía, la religión, incluso,
+porque todo lo que ha de ir ya que es la belleza.
+
+556
+00:53:32,780 --> 00:53:39,380
+Tenemos una descripción matemática de los primeros
+momentos después de la creación, pero nada más.
+
+557
+00:53:40,980 --> 00:53:48,300
+Para ver lo suficientemente lejos atrás en el tiempo para descubrir una cuerda
+requeriría un colisionador del tamaño de nuestra galaxia.
+
+558
+00:53:50,380 --> 00:53:56,065
+Por el momento,
+el LHC es tan grande como se pone,
+
+559
+00:53:56,100 --> 00:54:02,340
+aunque quizás en lugar de crear una cuerda
+podemos buscar una de sus propiedades más notables.
+
+560
+00:54:06,100 --> 00:54:09,900
+La idea original era que, si bien
+no son puntos, tal vez se extienden a cabo
+
+561
+00:54:09,935 --> 00:54:13,700
+a lo largo de algún tipo de línea, podría ser
+una línea de curvas, al igual que un pedazo de cuerda.
+
+562
+00:54:13,735 --> 00:54:16,105
+Ese es el nombre de la teoría de las cuerdas.
+
+563
+00:54:16,140 --> 00:54:19,660
+De hecho, la gente comprendio
+que eso no es suficiente.
+
+564
+00:54:19,695 --> 00:54:23,145
+Si ellos van a ser ampliados
+en una dimensión,
+
+565
+00:54:23,180 --> 00:54:28,020
+son probablemente ampliado en dos dimensiones,
+tal vez tres dimensiones, quizás más dimensiones.
+
+566
+00:54:28,055 --> 00:54:34,185
+Así que, de hecho, hoy en día la teoría de las cuerdas
+tiene un nombre un poco equivocado, ¿verdad?
+
+567
+00:54:34,220 --> 00:54:38,425
+Y de hecho la gente hoy en día a menudo
+habla de algo que se llama Teoría M,
+
+568
+00:54:38,460 --> 00:54:43,460
+que se supone debe contener la idea de que las
+partículas no sólo son ampliadas en una dimensión
+
+569
+00:54:43,495 --> 00:54:46,420
+pero quizás M para muchas dimensiones.
+
+570
+00:54:52,700 --> 00:54:56,100
+Múltiples dimensiones son notoriamente
+difícil de imaginar,
+
+571
+00:54:56,135 --> 00:54:58,545
+por no hablar de detectar,
+
+572
+00:54:58,580 --> 00:55:03,060
+sin embargo una de las esperanzas más salvajes es que
+nosotros solamente que podríamos atrapar la vista
+
+573
+00:55:03,095 --> 00:55:06,340
+de una dimensión extra
+en el LHC.
+
+574
+00:55:07,980 --> 00:55:09,625
+El espacio tiene tres dimensiones,
+
+575
+00:55:09,660 --> 00:55:14,020
+todos sabemos eso. Pero pensamos
+que tal vez cada punto de nuestro espacio
+
+576
+00:55:14,055 --> 00:55:18,060
+no es en realidad un punto
+sino que una especie de pequeña esfera
+
+577
+00:55:18,095 --> 00:55:21,105
+con otras dimensiones dentro.
+
+578
+00:55:21,140 --> 00:55:25,160
+Y si pudiéramos penetrar en
+estas pequeñas esferas en las energías
+
+579
+00:55:25,195 --> 00:55:29,787
+que estamos estudiando, tal vez
+encontraremos estas dimensiones adicionales.
+
+580
+00:55:29,822 --> 00:55:34,380
+Esta idea de dimensiones extra esta
+muy conectado con la teoría de las cuerdas.
+
+581
+00:55:41,260 --> 00:55:45,225
+Si logramos detectar
+otra dimensión en el LHC,
+
+582
+00:55:45,260 --> 00:55:52,440
+entonces vamos a ser capaces de demostrar que el universo es
+por lo menos un lugar en el que las cuerdas puedan sentirse como en casa,
+
+583
+00:55:52,475 --> 00:55:59,620
+un universo en el que la gravedad y otras fuerzas
+pueden armoniosamente co-existir en nuestras matemáticas.
+
+584
+00:56:00,660 --> 00:56:07,140
+Vamos a dar un paso más cerca
+de completar nuestra historia de la creación.
+
+585
+00:56:08,780 --> 00:56:11,825
+Esta es quizás la más importante
+sobre el LHC.
+
+586
+00:56:11,860 --> 00:56:16,220
+Desde hace mucho tiempo, hemos podido
+especular sobre la teoría de las cuerdas,
+
+587
+00:56:16,255 --> 00:56:18,265
+acerca de otras dimensiones,
+
+588
+00:56:18,300 --> 00:56:21,940
+pero no hemos tenido hechos
+para hacerles frente.
+
+589
+00:56:25,300 --> 00:56:31,140
+Ahora bien, si nos encontramos con otras dimensiones en
+el LHC, que sería una especie de pista
+
+590
+00:56:31,175 --> 00:56:34,657
+que la teoría de las cuerdas podría ser correcta,
+pero no sería una prueba.
+
+591
+00:56:34,692 --> 00:56:38,105
+Sería, si se quiere,
+una huella de humo para la teoría de las cuerdas.
+
+592
+00:56:38,140 --> 00:56:41,940
+Pero se nos animan a pensar
+que tal vez estábamos en el buen camino.
+
+593
+00:56:45,100 --> 00:56:48,420
+Sería
+un tremendo avance,
+
+594
+00:56:48,455 --> 00:56:51,157
+pero con la tecnología actual
+
+595
+00:56:51,192 --> 00:56:53,860
+la búsqueda de otra dimensión
+
+596
+00:56:53,895 --> 00:56:56,660
+es altamente improbable.
+
+597
+00:57:01,300 --> 00:57:07,225
+El LHC nos permitirá explorar
+los primeros tiempos del universo.
+
+598
+00:57:07,260 --> 00:57:13,900
+Dentro de unos años nos dirá si el
+Bosón de Higgs, la partícula de Dios, realmente existen.
+
+599
+00:57:16,460 --> 00:57:21,460
+Y puede que incluso nos dijera que existen
+otras dimensiones en el universo.
+
+600
+00:57:21,495 --> 00:57:23,825
+Esta es la exploración.
+
+601
+00:57:23,860 --> 00:57:27,940
+Es un viaje al borde mismo
+de nuestra comprensión.
+
+602
+00:57:33,660 --> 00:57:36,420
+Hoy es el momento.
+
+603
+00:57:37,980 --> 00:57:41,705
+No sabemos
+lo que el LHC va a descubrir.
+
+604
+00:57:41,740 --> 00:57:46,940
+Tenemos todas estas ideas. No pueden todos tener razón,
+muchas de ellas van a ser demostradas o a estar equivocadas.
+
+605
+00:57:46,975 --> 00:57:49,985
+Pero si sólo uno de ellos
+se demuestra que es correcta,
+
+606
+00:57:50,020 --> 00:57:54,820
+entonces va a ser el evento más
+emocionante en mi vida científica.
+
+607
+00:57:57,420 --> 00:58:03,260
+Y, para mí, eso es lo que a la ciencia busca
+con el Gran Colisionador de Hadrones.
+
+608
+00:58:03,295 --> 00:58:07,260
+Representa
+la parte más noble de la humanidad --
+
+609
+00:58:07,295 --> 00:58:10,620
+nuestra necesidad de saber.
+
+610
+00:58:33,380 --> 00:58:37,020
+Subtitulo por CondorIII
+
