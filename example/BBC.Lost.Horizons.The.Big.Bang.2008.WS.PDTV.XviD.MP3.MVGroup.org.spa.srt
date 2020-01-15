@@ -1,0 +1,3781 @@
+1
+00:00:18,060 --> 00:00:21,140
+Desde que la humanidad
+fue capaz de pensar
+
+2
+00:00:21,175 --> 00:00:23,105
+nos hemos preguntado
+cómo llegamos aquí.
+
+3
+00:00:23,140 --> 00:00:27,660
+Algunas de las ideas a las que
+llegamos han sido sorprendentes.
+
+4
+00:00:27,695 --> 00:00:31,940
+Cada civilización y religión en
+la historia ha tenido la propia.
+
+5
+00:00:31,975 --> 00:00:35,380
+En una, el universo se crea luego
+que una caparazón de caracol
+
+6
+00:00:35,415 --> 00:00:38,305
+misteriosamente libera
+una gallina y una paloma.
+
+7
+00:00:38,340 --> 00:00:42,100
+En otra, un gigante emerge
+de un enorme huevo.
+
+8
+00:00:42,135 --> 00:00:44,985
+Hoy, tenemos el Big Bang,
+
+9
+00:00:45,020 --> 00:00:47,883
+la también asombrosa idea
+de que el universo
+
+10
+00:00:47,918 --> 00:00:50,470
+simplemente comenzó...
+de la nada.
+
+11
+00:00:56,740 --> 00:01:00,940
+Primero, ¿qué es lo que
+realmente sabemos del Big Bang?
+
+12
+00:01:00,975 --> 00:01:03,985
+Encuentro difícil aceptar
+la teoría del Big Bang.
+
+13
+00:01:04,020 --> 00:01:07,360
+Esta es la historia de cómo
+la idea del Big Bang evolucionó
+
+14
+00:01:07,395 --> 00:01:09,637
+de una propuesta inesperada...
+
+15
+00:01:09,775 --> 00:01:13,557
+Dos teorías de cómo el universo
+mismo comenzó a existir.
+
+16
+00:01:13,592 --> 00:01:17,246
+...a una explicación aceptada
+de cómo comenzó el universo.
+
+17
+00:01:17,281 --> 00:01:20,900
+Solo los experimentos pueden decirnos
+cuál es el camino a seguir.
+
+18
+00:01:22,500 --> 00:01:25,403
+Tenemos la extravagante ambición
+
+19
+00:01:25,438 --> 00:01:28,815
+de entender el mundo, cómo funciona,
+ese es nuestro objetivo.
+
+20
+00:01:29,980 --> 00:01:33,380
+Como nos han dicho por más
+de 50 años de ciencia de la BBC.
+
+21
+00:01:34,140 --> 00:01:37,500
+Le llamo, a veces, la más grande
+aventura de la mente humana.
+
+22
+00:01:40,926 --> 00:01:42,313
+HORIZONTES PERDIDOS
+
+23
+00:01:43,529 --> 00:01:46,114
+EL BIG BANG
+
+24
+00:01:49,535 --> 00:01:51,008
+Traducción: cm1454
+
+25
+00:02:01,820 --> 00:02:06,380
+Por generaciones, científicos,
+y particularmente físicos como yo,
+
+26
+00:02:06,415 --> 00:02:10,940
+hemos intentado entender cómo el mundo
+a nuestro alrededor comenzó a existir.
+
+27
+00:02:14,100 --> 00:02:16,505
+A mitad de los años 40,
+a medida que los físicos retornaban
+
+28
+00:02:16,540 --> 00:02:21,345
+a la frontera de la ciencia y comenzaban
+a concentrarse, una vez más,
+
+29
+00:02:21,380 --> 00:02:22,787
+en la pregunta más fundamental de todas,
+
+30
+00:02:22,887 --> 00:02:28,501
+hubo gran desacuerdo
+sobre el origen de nuestro universo.
+
+31
+00:02:30,940 --> 00:02:36,180
+En el centro de este debate
+había dos teorías opuestas.
+
+32
+00:02:37,939 --> 00:02:41,385
+La primera, es que el universo
+ha existido siempre.
+
+33
+00:02:41,420 --> 00:02:46,540
+No tiene principio, ni tendrá fin
+y que es como lo vemos hoy.
+
+34
+00:02:46,575 --> 00:02:50,900
+Fue la creación de Fred Hoyle,
+un distinguido matemático
+
+35
+00:02:50,935 --> 00:02:54,937
+y cosmólogo que trabajó aquí
+en la Universidad de Cambridge.
+
+36
+00:02:54,972 --> 00:02:58,905
+El profesor Hoyle vehementemente
+discrepó con la segunda idea
+
+37
+00:02:58,940 --> 00:03:01,406
+de que el universo de algún modo
+había sido creado de la nada
+
+38
+00:03:01,506 --> 00:03:03,429
+en una poderosa explosión.
+
+39
+00:03:04,900 --> 00:03:07,505
+Pero, irónicamente,
+fue él el que aceptó
+
+40
+00:03:07,540 --> 00:03:12,380
+que esta idea de todo-de-la-nada
+había capturado la imaginación pública.
+
+41
+00:03:12,415 --> 00:03:16,752
+En 1949, acuñó el término Big Bang
+
+42
+00:03:16,787 --> 00:03:20,700
+originalmente elegida como
+un término denigrante.
+
+43
+00:03:31,620 --> 00:03:34,500
+<i>La BBC presenta
+la Naturaleza del Universo.</i>
+
+44
+00:03:34,535 --> 00:03:36,345
+<i>El orador es Fred Hoyle</i>
+
+45
+00:03:36,380 --> 00:03:40,825
+<i>un matemático de Cambridge
+y miembro del Colegio St. John.</i>
+
+46
+00:03:41,766 --> 00:03:46,065
+<i>Esta suposición sobre el Big Bang
+es la menos agradable de las dos</i>
+
+47
+00:03:46,100 --> 00:03:47,826
+<i>porque es un proceso irracional</i>
+
+48
+00:03:47,861 --> 00:03:50,677
+<i>que no puede ser descrito
+en términos científicos.</i>
+
+49
+00:03:50,780 --> 00:03:52,820
+<i>En el campo filosófico también</i>
+
+50
+00:03:52,920 --> 00:03:56,965
+<i>no encuentro una buena razón
+en preferir la teoría del Big Bang.</i>
+
+51
+00:03:57,135 --> 00:03:59,607
+<i>En verdad, me parece que en el
+sentido filosófico</i>
+
+52
+00:03:59,717 --> 00:04:02,742
+<i>es claramente una
+insatisfactoria noción,</i>
+
+53
+00:04:02,904 --> 00:04:05,511
+<i>ya que coloca la teoría básica
+fuera de vista</i>
+
+54
+00:04:06,181 --> 00:04:09,700
+<i>donde nunca se podrá probar
+a través de la observación directa.</i>
+
+55
+00:04:18,660 --> 00:04:23,440
+El Profesor Hoyle llamó a su idea
+el Modelo del Universo Estable
+
+56
+00:04:23,475 --> 00:04:28,220
+y en esa época varios cosmólogos
+prefirieron esta idea a la rival.
+
+57
+00:04:35,700 --> 00:04:38,704
+Hoyle creía ardientemente
+que su teoría,
+
+58
+00:04:38,739 --> 00:04:41,706
+eventualmente sería comprobada
+por la observación
+
+59
+00:04:41,741 --> 00:04:46,380
+mientras que la del Big Bang,
+en su opinión, nunca podría probarse.
+
+60
+00:04:46,415 --> 00:04:49,541
+La verdad es, en la época
+en que las computadoras
+
+61
+00:04:49,576 --> 00:04:51,217
+eran hombres con lápices
+
+62
+00:04:51,420 --> 00:04:53,749
+y solo las moscas de la fruta
+o monos Rhesus
+
+63
+00:04:53,784 --> 00:04:55,489
+habían estado en el espacio
+
+64
+00:04:55,675 --> 00:04:59,860
+afirmar algo con sentido sobre
+el nacimiento del universo
+
+65
+00:04:59,895 --> 00:05:04,780
+solo con mirar las estrellas
+se volvía excepcionalmente difícil.
+
+66
+00:05:10,660 --> 00:05:14,259
+En 1929, de todos modos,
+un hombre llamado Hubble
+
+67
+00:05:15,034 --> 00:05:16,901
+había mirado al cielo de la noche
+con su telescopio
+
+68
+00:05:16,936 --> 00:05:19,780
+y había observado
+algo extraordinario...
+
+69
+00:05:19,815 --> 00:05:24,923
+una asombrosa observación que
+precipitaría la idea revolucionaria
+
+70
+00:05:24,958 --> 00:05:30,460
+que el Profesor Hoyle eventualmente
+denominaría despectivamente el Big Bang.
+
+71
+00:05:35,060 --> 00:05:38,385
+Lo que Hubble vio desde lo alto
+de su montaña en California
+
+72
+00:05:38,420 --> 00:05:44,260
+fue que el estable, antiguo, fiable
+universo era, de hecho, nada más que...
+
+73
+00:05:44,295 --> 00:05:46,542
+Galaxias, que observó
+
+74
+00:05:46,577 --> 00:05:50,777
+alejándose unas de otras
+a velocidades alarmantes.
+
+75
+00:05:51,740 --> 00:05:53,785
+En vísperas de la Gran Depresión,
+
+76
+00:05:53,820 --> 00:05:57,820
+un universo en caos era lo último
+que la gente quería escuchar.
+
+77
+00:05:59,540 --> 00:06:03,665
+La razón por la que Hubble supo
+que esta rareza intergaláctica
+
+78
+00:06:03,700 --> 00:06:06,286
+estaba en plena marcha
+fue hasta el análisis
+
+79
+00:06:06,321 --> 00:06:08,873
+a través de la física,
+indiscutible y minuciosa
+
+80
+00:06:11,700 --> 00:06:16,560
+demostrada con admirable surrealismo
+por Horizon en 1978.
+
+81
+00:06:18,218 --> 00:06:21,385
+Este experimento barroco fue realizado
+primero por un físico alemán
+
+82
+00:06:21,420 --> 00:06:25,420
+en las planicies de Holanda. Máquina
+a vapor, uniformes, una banda y demás.
+
+83
+00:06:25,455 --> 00:06:28,317
+Los entusiastas educadores
+al lado del canal en Kent
+
+84
+00:06:28,352 --> 00:06:31,180
+han repetido el experimento
+para nosotros del mismo modo
+
+85
+00:06:31,215 --> 00:06:34,060
+probablemente por primera
+vez en 140 años.
+
+86
+00:07:01,100 --> 00:07:03,280
+Sí, ¿medio semitono?
+
+87
+00:07:03,315 --> 00:07:05,425
+¿Así lo crees? Sí.
+
+88
+00:07:05,460 --> 00:07:09,200
+¿A qué velocidad cree que iba,
+40 kilómetros? 40 kilómetros.
+
+89
+00:07:10,828 --> 00:07:12,940
+Los trompetistas expertos sobre el tren
+mantuvieron el tono constante
+
+90
+00:07:12,975 --> 00:07:15,945
+en Do central, pero las personas
+escuchando en tierra
+
+91
+00:07:15,980 --> 00:07:19,760
+oyeron que el tono cambiaba
+a medida que la locomotora pasaba.
+
+92
+00:07:20,820 --> 00:07:23,505
+Fue el físico Christian Doppler
+de Praga
+
+93
+00:07:23,540 --> 00:07:26,878
+el primero en señalar 150 años atrás,
+que el cambio de tono
+
+94
+00:07:26,913 --> 00:07:29,373
+podría esperarse cuando una fuente
+estable de ondas
+
+95
+00:07:29,408 --> 00:07:31,833
+cambiara de posición
+con respecto al observador.
+
+96
+00:07:32,335 --> 00:07:34,580
+En la actualidad, le llamamos
+Efecto Doppler.
+
+97
+00:07:36,860 --> 00:07:40,700
+Acercándose - tono alto,
+ondas cortas.
+
+98
+00:07:40,735 --> 00:07:44,380
+Alejándose - tono bajo,
+ondas largas.
+
+99
+00:07:53,860 --> 00:07:56,985
+- Sí, un semitono.
+- Casi un semitono.
+
+100
+00:07:57,020 --> 00:07:59,705
+El Efecto Doppler es simétrico.
+
+101
+00:07:59,740 --> 00:08:02,660
+Ya sea la fuente o el que escucha
+el que se mueve, el efecto está allí.
+
+102
+00:08:11,860 --> 00:08:16,348
+¿Pero que tienen que ver los trenes
+y trompetistas con las galaxias?
+
+103
+00:08:23,060 --> 00:08:27,740
+Sucede que el Efecto Doppler
+también aplica a la luz.
+
+104
+00:08:38,380 --> 00:08:41,092
+Midiendo los cambios
+en las longitudes de onda
+
+105
+00:08:41,127 --> 00:08:43,130
+de la luz emitida desde las galaxias
+
+106
+00:08:43,165 --> 00:08:48,660
+Hubble pudo deducir que las galaxias
+iban alejándose unas de otras.
+
+107
+00:08:52,780 --> 00:08:57,580
+Y galaxias alejándose
+podía significar una sola cosa.
+
+108
+00:08:59,180 --> 00:09:02,300
+El universo se estaba expandiendo.
+
+109
+00:09:07,260 --> 00:09:12,625
+El universo en expansión de Hubble causó
+una conmoción por lo que implicaba.
+
+110
+00:09:12,660 --> 00:09:14,323
+Un universo en expansión significa
+
+111
+00:09:14,358 --> 00:09:17,345
+que mañana será más grande
+de lo que es hoy.
+
+112
+00:09:17,735 --> 00:09:21,900
+Esto también significa que ayer
+tuvo que ser más pequeño
+
+113
+00:09:21,935 --> 00:09:23,705
+el día anterior, más pequeño aún
+
+114
+00:09:23,740 --> 00:09:26,380
+y si continúas girando las agujas
+del reloj hacia atrás en el tiempo
+
+115
+00:09:26,415 --> 00:09:28,985
+eventualmente llegarás
+al momento en la historia
+
+116
+00:09:29,020 --> 00:09:34,180
+cuando toda la materia del universo
+está unida en una sola y pequeña región.
+
+117
+00:09:38,340 --> 00:09:41,825
+Fue esta idea de un punto
+único de creación
+
+118
+00:09:41,860 --> 00:09:45,665
+lo que causó el gran debate entre
+los seguidores del Big Bang
+
+119
+00:09:45,700 --> 00:09:49,364
+y personas como Fred Hoyle,
+que se mantuvieron firme
+
+120
+00:09:49,399 --> 00:09:52,701
+en que el universo
+se mantiene estable.
+
+121
+00:09:54,460 --> 00:09:58,265
+En el universo de Hoyle,
+no existe punto de creación
+
+122
+00:09:58,300 --> 00:10:01,340
+no todo se produce en un determinado
+momento en el pasado.
+
+123
+00:10:01,375 --> 00:10:06,537
+De hecho, afirma que nueva materia
+se forma todo el tiempo.
+
+124
+00:10:06,572 --> 00:10:11,665
+Como usted probablemente sabe,
+existen dos formas of cosmología
+
+125
+00:10:11,700 --> 00:10:15,180
+lo que se conoce como el Big Bang
+y el Modelo Estable.
+
+126
+00:10:15,215 --> 00:10:18,860
+Existen realmente varias
+cosmologías del Big Bang
+
+127
+00:10:18,895 --> 00:10:21,785
+y todas ellas tienen la propiedad
+
+128
+00:10:21,820 --> 00:10:25,620
+que el universo se supone comenzó
+en un determinado momento.
+
+129
+00:10:25,655 --> 00:10:29,420
+¿Rechaza usted esta teoría del Big Bang,
+este concepto de un comienzo
+
+130
+00:10:29,455 --> 00:10:32,137
+y una evolución y continuación?
+
+131
+00:10:32,172 --> 00:10:34,785
+Sí, y siempre lo he hecho
+
+132
+00:10:34,820 --> 00:10:39,580
+por razones que usted pensaría
+no son astronómicas.
+
+133
+00:10:39,615 --> 00:10:41,945
+Siempre me ha impresionado
+el punto de vista
+
+134
+00:10:41,980 --> 00:10:46,920
+de la gente que discute que las plantas
+y los animales en la Tierra
+
+135
+00:10:46,955 --> 00:10:51,860
+toda esta complejidad,
+se crea así, de ese modo, de repente.
+
+136
+00:10:51,895 --> 00:10:54,797
+Sabemos ahora desde Darwin
+que eso es completamente incorrecto.
+
+137
+00:10:54,832 --> 00:10:57,665
+Tuvimos la misma historia
+con los elementos químicos.
+
+138
+00:10:57,700 --> 00:11:01,300
+Se dijo, "Sí, los distintos elementos
+como el sodio, el oxígeno
+
+139
+00:11:01,335 --> 00:11:04,900
+"el carbono de nuestros cuerpos,
+y demás, han sido siempre así"
+
+140
+00:11:04,935 --> 00:11:06,385
+pero sabemos que no es verdad
+
+141
+00:11:06,420 --> 00:11:08,980
+que el oxígeno que usted y yo
+estamos respirando ahora
+
+142
+00:11:09,015 --> 00:11:11,585
+fue realmente creado
+dentro de las estrellas
+
+143
+00:11:11,620 --> 00:11:16,020
+y que el hierro de nuestros autos
+también fue creado en las estrellas.
+
+144
+00:11:16,055 --> 00:11:20,782
+Entonces la lección que uno aprende
+de estos casos
+
+145
+00:11:20,817 --> 00:11:24,842
+es que no se impacta en el universo,
+
+146
+00:11:24,877 --> 00:11:27,261
+en sus propiedades, al comienzo.
+
+147
+00:11:27,740 --> 00:11:31,749
+Las cosas se desarrollan siguiendo
+las leyes básicas de la física
+
+148
+00:11:31,935 --> 00:11:35,380
+y creo que aplica al universo
+como un todo.
+
+149
+00:11:35,415 --> 00:11:37,905
+¿Cómo nació entonces?
+
+150
+00:11:37,940 --> 00:11:41,305
+No creo que haya tenido un comienzo.
+
+151
+00:11:41,340 --> 00:11:45,140
+Creo que lo que podemos demostrar,
+en forma definitiva
+
+152
+00:11:45,175 --> 00:11:48,905
+es que las partículas individuales
+tienen que haber sido creadas.
+
+153
+00:11:48,940 --> 00:11:54,237
+Si pudiera, de algún modo, demostrarle
+mi punto de vista
+
+154
+00:11:54,272 --> 00:11:56,140
+y el punto de vista
+que tienen los otros.
+
+155
+00:11:56,175 --> 00:11:59,337
+Suponga que dibujo aquí una dirección
+
+156
+00:11:59,372 --> 00:12:01,996
+solo una dirección
+que represente al espacio.
+
+157
+00:12:02,031 --> 00:12:04,605
+¿Son las tres dimensiones del espacio?
+
+158
+00:12:04,640 --> 00:12:07,180
+Sí, las tres en una y aquí el tiempo.
+
+159
+00:12:08,820 --> 00:12:12,860
+Lo que los defensores del Big Bang
+dicen es que las partículas
+
+160
+00:12:12,895 --> 00:12:15,145
+cada partícula individual
+
+161
+00:12:15,180 --> 00:12:20,980
+es una especie de línea aquí y todas
+comienzan al mismo momento en el tiempo.
+
+162
+00:12:21,015 --> 00:12:24,257
+Eso significa, estos puntos
+son el comienzo
+
+163
+00:12:24,292 --> 00:12:27,636
+pero no dan ningún tipo
+de explicación física
+
+164
+00:12:27,671 --> 00:12:31,516
+de qué es lo que causa que aparezcan,
+mientras que yo pienso que debe darse
+
+165
+00:12:31,551 --> 00:12:33,937
+una descripción
+físico-matemática correcta
+
+166
+00:12:33,972 --> 00:12:36,825
+de lo que uno piensa fue
+el comienzo de una partícula
+
+167
+00:12:36,860 --> 00:12:38,323
+y creo que cuando uno hace eso
+
+168
+00:12:38,358 --> 00:12:40,955
+no se llega a que todas
+nacieran al mismo momento
+
+169
+00:12:41,215 --> 00:12:44,900
+se llega a que están distribuidas
+con finales en distintos momentos
+
+170
+00:12:44,935 --> 00:12:48,237
+que están mezcladas.
+Esto es lo que creo.
+
+171
+00:12:48,272 --> 00:12:51,505
+Cuando usted da una descripción
+matemática correcta de esto
+
+172
+00:12:51,540 --> 00:12:55,580
+encontrará que el universo mismo
+no tiene que tener un principio.
+
+173
+00:13:01,220 --> 00:13:03,185
+Hoyle realmente tenía razón.
+
+174
+00:13:03,220 --> 00:13:07,700
+Nunca nadie había podido probar
+que el universo tenía un principio
+
+175
+00:13:07,735 --> 00:13:10,185
+era solo un concepto teórico.
+
+176
+00:13:10,220 --> 00:13:13,980
+Las galaxias alejándose unas de otras,
+alejándose unas de otras.
+
+177
+00:13:15,580 --> 00:13:17,336
+Más allá de cualquier
+fuente de radio
+
+178
+00:13:17,371 --> 00:13:21,781
+que cualquiera de nosotros conociera
+o pudiera soñar existiera.
+
+179
+00:13:22,740 --> 00:13:24,780
+Nos estaba desbordando.
+
+180
+00:13:28,300 --> 00:13:32,145
+Pero entonces, en 1965,
+la brigada del Big Bang
+
+181
+00:13:32,180 --> 00:13:34,802
+recibió un gran empuje
+gracias a una curiosa antena
+
+182
+00:13:34,837 --> 00:13:38,018
+de forma de trompa
+situada en Nueva Jersey.
+
+183
+00:13:42,460 --> 00:13:47,140
+Esta antena había sido parte
+de un sistema de transmisión satelital.
+
+184
+00:13:49,820 --> 00:13:52,026
+Pero con la rápida marcha
+de la tecnología
+
+185
+00:13:52,061 --> 00:13:54,361
+pronto se volvió obsoleta.
+
+186
+00:13:57,420 --> 00:14:02,240
+En ese momento, dos jóvenes
+astrónomos de los Laboratorios Bell
+
+187
+00:14:02,275 --> 00:14:07,060
+decidieron adaptar su uso
+para estudiar nuestra galaxia.
+
+188
+00:14:09,997 --> 00:14:12,067
+HORIZON 1978
+UN SUSURRO DEL ESPACIO
+
+189
+00:14:13,140 --> 00:14:16,545
+Ese detector, una trompa, que se veía
+como una trompeta acústica antigua
+
+190
+00:14:16,580 --> 00:14:20,625
+para un gigante sordo, se encuentra
+en la cima de Homedale, New Jersey.
+
+191
+00:14:20,660 --> 00:14:22,719
+Entre todos los oídos
+atentos del mundo
+
+192
+00:14:22,754 --> 00:14:26,509
+fue este el que captó
+el susurro crucial en 1965
+
+193
+00:14:26,544 --> 00:14:30,265
+un afortunado comienzo
+hacia la cosmología moderna.
+
+194
+00:14:30,300 --> 00:14:33,540
+Lo que captó provino de más allá
+del universo conocido
+
+195
+00:14:33,575 --> 00:14:36,705
+por los grandes telescopios ópticos.
+
+196
+00:14:36,740 --> 00:14:39,785
+En el área central,
+nuestro Sol y sus planetas
+
+197
+00:14:39,820 --> 00:14:43,740
+solo una de las miles de estrellas
+que orbitan la Vía Láctea.
+
+198
+00:14:46,420 --> 00:14:50,100
+También cercanas a nosotros,
+las otras galaxias del grupo local
+
+199
+00:14:50,135 --> 00:14:52,740
+a un par de millones de años luz.
+
+200
+00:14:57,220 --> 00:15:00,620
+Muchas otras galaxias en grupo
+o solitarias aglomeran la escena.
+
+201
+00:15:00,655 --> 00:15:03,140
+Homedale vio más allá de todo esto.
+
+202
+00:15:06,820 --> 00:15:09,309
+Mas allá aún de las miles
+de millones de otras galaxias
+
+203
+00:15:09,344 --> 00:15:11,054
+que apenas se pueden detectar.
+
+204
+00:15:11,900 --> 00:15:13,375
+Utilizando la Antena Homedale
+
+205
+00:15:13,410 --> 00:15:16,180
+dos radio astrónomos,
+Robert Wilson y Arno Penzias,
+
+206
+00:15:16,215 --> 00:15:20,740
+con una mezcla de suerte y dedicación,
+arribaron a un gran descubrimiento.
+
+207
+00:15:23,980 --> 00:15:26,282
+La trompa fue cuidadosamente
+diseñada y construida
+
+208
+00:15:26,317 --> 00:15:28,113
+para captar señales de microondas.
+
+209
+00:15:28,148 --> 00:15:31,220
+Esto es, ondas de radio tan cortas
+como el ancho de una mano.
+
+210
+00:15:34,140 --> 00:15:37,105
+OK, estoy listo en este extremo,
+adelante.
+
+211
+00:15:37,140 --> 00:15:41,100
+Antes de que Penzias y Wilson
+pudieran empezar con sus experimentos,
+
+212
+00:15:41,135 --> 00:15:43,340
+tuvieron que calibrar el detector.
+
+213
+00:15:43,375 --> 00:15:45,625
+OK, comenzamos a 30 grados,
+
+214
+00:15:45,660 --> 00:15:48,265
+muy bien y estamos ahora en el cielo.
+
+215
+00:15:48,300 --> 00:15:51,900
+Habíamos elegido a propósito
+una porción del espectro,
+
+216
+00:15:51,935 --> 00:15:53,705
+una longitud de onda
+de siete centímetros
+
+217
+00:15:53,740 --> 00:15:59,100
+donde esperábamos no se captara nada,
+casi nada, ninguna radiación del cielo.
+
+218
+00:15:59,135 --> 00:16:02,380
+En vez de eso, encontramos radiación
+
+219
+00:16:02,415 --> 00:16:05,300
+llegando a nuestra antena
+de todas direcciones.
+
+220
+00:16:05,335 --> 00:16:07,225
+Nos estaba desbordando.
+
+221
+00:16:08,882 --> 00:16:11,705
+Esto era, de alguna manera,
+una vergüenza.
+
+222
+00:16:11,740 --> 00:16:16,020
+Quizás algo en la antena Big Horn
+estaba produciendo un ruido excesivo.
+
+223
+00:16:16,055 --> 00:16:18,860
+Naturalmente, primero
+nos enfocamos en la antena.
+
+224
+00:16:18,895 --> 00:16:20,385
+Teníamos una sospecha,
+
+225
+00:16:20,420 --> 00:16:23,465
+porque la garganta de la antena
+se unía a la edificación,
+
+226
+00:16:23,500 --> 00:16:27,540
+un lugar atractivo para las palomas
+que les gustaba anidar allí,
+
+227
+00:16:27,575 --> 00:16:29,585
+especialmente durante el frío invierno.
+
+228
+00:16:29,620 --> 00:16:32,012
+No nos molestaba ya que escapaban
+cuando llegábamos,
+
+229
+00:16:32,047 --> 00:16:34,404
+a excepción de que habían
+cubierto la superficie
+
+230
+00:16:34,439 --> 00:16:36,371
+con un material blanco y pegajoso
+
+231
+00:16:36,406 --> 00:16:40,700
+que podría no solo absorber ondas
+de radio sino emitir ondas de radio,
+
+232
+00:16:40,735 --> 00:16:44,185
+lo que podría ser parte
+o quizás todo el resultado.
+
+233
+00:16:44,220 --> 00:16:48,326
+Cuando pudimos desmantelar
+la antena y limpiar la superficie,
+
+234
+00:16:48,361 --> 00:16:52,577
+al colocar la antena de nuevo
+- para nuestra sorpresa -
+
+235
+00:16:52,612 --> 00:16:55,101
+encontramos que el anterior
+resultado seguía allí.
+
+236
+00:16:55,135 --> 00:16:57,505
+La señal permanecía allí.
+
+237
+00:16:57,540 --> 00:17:00,745
+Casi a regañadientes,
+tuvieron que reconocer que la señal
+
+238
+00:17:00,780 --> 00:17:04,700
+provenía de alguna parte allá afuera,
+pero ¿cuál era la fuente?
+
+239
+00:17:04,735 --> 00:17:07,145
+Parecía provenir de todas partes.
+
+240
+00:17:07,180 --> 00:17:09,453
+Estábamos entonces atrapados
+en el espacio profundo
+
+241
+00:17:09,488 --> 00:17:12,013
+no era fácil para nosotros aceptar,
+
+242
+00:17:12,048 --> 00:17:14,011
+que esta radiación provenía
+de alguna parte
+
+243
+00:17:14,046 --> 00:17:18,664
+en el espacio cósmico profundo
+más allá de cualquier fuente de radio
+
+244
+00:17:18,699 --> 00:17:23,380
+que cualquiera de nosotros conociera
+o pudiera soñar existiera.
+
+245
+00:17:27,100 --> 00:17:29,265
+Ignorado por Penzias y Wilson,
+
+246
+00:17:30,010 --> 00:17:32,836
+a tan solo 45 km de allí
+en la Universidad de Princeton,
+
+247
+00:17:32,871 --> 00:17:36,732
+otro grupo soñaba
+con las fuentes de radio
+
+248
+00:17:36,767 --> 00:17:40,141
+del espacio cósmico profundo.
+
+249
+00:17:41,860 --> 00:17:45,060
+El grupo era liderado
+por el físico Bob Dicke,
+
+250
+00:17:45,095 --> 00:17:48,260
+renombrado por diseñar
+experimentos novedosos
+
+251
+00:17:48,295 --> 00:17:50,780
+para explorar el universo
+en sus comienzos.
+
+252
+00:17:57,460 --> 00:17:58,848
+Esto fue motivado
+
+253
+00:18:00,415 --> 00:18:02,116
+por un antiguo
+interés que tenía,
+
+254
+00:18:02,442 --> 00:18:07,285
+relacionado con las opiniones
+establecidas del universo en esa época,
+
+255
+00:18:07,510 --> 00:18:11,060
+de que el universo era
+una estructura que se expandía,
+
+256
+00:18:11,095 --> 00:18:14,580
+galaxias alejándose unas de otras,
+alejándose unas de otras
+
+257
+00:18:14,615 --> 00:18:18,065
+más rápidamente cuanto más lejos están.
+
+258
+00:18:18,100 --> 00:18:21,420
+La repercusión, por supuesto,
+de todo esto es que si volvemos
+
+259
+00:18:21,455 --> 00:18:25,557
+el tiempo atrás, todo está
+más unido en el pasado.
+
+260
+00:18:25,592 --> 00:18:29,660
+Por eso la idea de algo estallando
+o volando hacia lo lejos.
+
+261
+00:18:38,060 --> 00:18:41,580
+Dicke vio que el comienzo del universo
+podría haber sucedido así...
+
+262
+00:18:41,615 --> 00:18:45,100
+La bola de fuego estaría tan caliente
+que dotaría al universo
+
+263
+00:18:45,135 --> 00:18:47,397
+con mucha radiación, para comenzar.
+
+264
+00:18:47,432 --> 00:18:49,606
+Esa radiación estaría
+presente aún hoy
+
+265
+00:18:49,641 --> 00:18:51,745
+y Dicke dice que debería buscarse.
+
+266
+00:18:51,780 --> 00:18:55,100
+Dejó al Profesor Jim Peebles
+investigar los detalles.
+
+267
+00:18:55,135 --> 00:18:56,745
+Si esta radiación está presente,
+
+268
+00:18:57,772 --> 00:19:00,360
+podremos detectarla pero
+¿sabremos que lo estamos haciendo
+
+269
+00:19:00,095 --> 00:19:03,060
+y no radiación de algo más
+en el universo?
+
+270
+00:19:03,095 --> 00:19:05,265
+Después de todo, sabemos que existen
+mucha fuentes de radio,
+
+271
+00:19:05,300 --> 00:19:08,500
+galaxias que están emitiendo
+radiación en largas longitudes de onda.
+
+272
+00:19:08,535 --> 00:19:10,660
+¿Cómo saber que esta radiación
+no se interpondría?
+
+273
+00:19:12,300 --> 00:19:14,079
+Pero en un giro del destino,
+
+274
+00:19:14,114 --> 00:19:18,363
+la radiación ya había sido
+detectada en Homedale.
+
+275
+00:19:18,695 --> 00:19:22,340
+Cuando Arno Penzias oyó
+sobre el experimento en Princeton,
+
+276
+00:19:22,375 --> 00:19:25,065
+tomó el teléfono y llamó a Bob Dicke.
+
+277
+00:19:25,100 --> 00:19:28,860
+Bob recibió el llamado,
+escuchamos la discusión,
+
+278
+00:19:28,895 --> 00:19:32,177
+partes de ella, no nos imaginábamos
+lo que estaba sucediendo.
+
+279
+00:19:32,212 --> 00:19:35,460
+Bob volvió y nos dijo,
+"Amigos, creo que lo tenemos."
+
+280
+00:19:35,495 --> 00:19:38,425
+La noticia se supo,
+el Susurro de Homedale
+
+281
+00:19:38,460 --> 00:19:42,460
+era nada menos que un eco
+del origen del universo.
+
+282
+00:19:54,460 --> 00:19:59,900
+El fenómeno fue considerado una pieza
+importante en el rompecabezas del cosmos
+
+283
+00:19:59,935 --> 00:20:02,425
+que sus descubridores accidentales,
+
+284
+00:20:02,460 --> 00:20:07,540
+Penzias y Wilson, recibieron el premio
+Nobel de Física en 1978.
+
+285
+00:20:07,575 --> 00:20:10,385
+Jim Peebles y Bob Dicke
+por otro lado,
+
+286
+00:20:10,420 --> 00:20:13,905
+que habían interpretado correctamente
+el Susurro de Homedale
+
+287
+00:20:13,940 --> 00:20:18,620
+como el eco del Big Bang,
+no recibieron absolutamente nada.
+
+288
+00:20:18,655 --> 00:20:21,420
+Fueron buenas noticias
+para la teoría del Big Bang
+
+289
+00:20:21,455 --> 00:20:23,785
+porque la idea del Modelo Estable
+
+290
+00:20:23,820 --> 00:20:29,340
+no podía ofrecer explicación alguna
+sobre de dónde provenía la radiación.
+
+291
+00:20:31,140 --> 00:20:35,465
+No es que Fred Hoyle y sus devotos del
+Modelo Estable fueran disuadidos.
+
+292
+00:20:35,500 --> 00:20:38,662
+Comenzaron a trabajar
+investigando si la radiación
+
+293
+00:20:38,697 --> 00:20:40,943
+realmente provenía del Big Bang.
+
+294
+00:20:41,455 --> 00:20:45,060
+Al principio, pensé que esto no era
+nada bueno para la teoría
+
+295
+00:20:45,095 --> 00:20:47,825
+cuando se descubrió por primera vez,
+pero entonces se revela
+
+296
+00:20:47,860 --> 00:20:52,740
+que las fuentes simples emiten
+ondas de radio de alta frecuencia
+
+297
+00:20:52,775 --> 00:20:55,145
+e infrarrojo lejano en una gran escala,
+
+298
+00:20:55,180 --> 00:20:58,025
+por eso es un asunto abierto
+actualmente, creo,
+
+299
+00:20:58,060 --> 00:21:01,625
+si este entorno realmente proviene
+del universo general
+
+300
+00:21:01,660 --> 00:21:06,820
+o si viene de fuentes de manera
+general en la radio astronomía.
+
+301
+00:21:06,855 --> 00:21:11,537
+Hoyle no estaba solo
+en su aversión hacia el Big Bang.
+
+302
+00:21:11,572 --> 00:21:16,220
+Por mi parte, encuentro difícil aceptar
+la teoría del Big Bang.
+
+303
+00:21:16,255 --> 00:21:17,785
+Me gustaría rechazarla.
+
+304
+00:21:17,820 --> 00:21:21,440
+Prefiero por mucho el Modelo
+Estable de Mr. Hoyle,
+
+305
+00:21:21,475 --> 00:21:24,767
+pero tengo que enfrentar
+los hechos como físico.
+
+306
+00:21:24,802 --> 00:21:28,025
+La evidencia se acumula.
+Experimento tras experimento
+
+307
+00:21:28,060 --> 00:21:31,380
+sugiere que las claras predicciones
+de la teoría más inocente,
+
+308
+00:21:31,415 --> 00:21:33,025
+la del Big Bang, se están
+volviendo realidad.
+
+309
+00:21:33,060 --> 00:21:35,940
+El Modelo Estable
+se vuelve más complicado,
+
+310
+00:21:35,975 --> 00:21:38,185
+modificado, difícil de evaluar,
+
+311
+00:21:38,220 --> 00:21:41,905
+por eso pienso, que si los próximos dos
+años se desarrollan como lo han hecho,
+
+312
+00:21:41,940 --> 00:21:46,300
+por una generación o dos, nos
+atendremos a la cosmología más ingenua.
+
+313
+00:21:53,460 --> 00:21:57,225
+# ¿No sería lindo
+si fuéramos mayores?... #
+
+314
+00:21:57,260 --> 00:22:00,486
+Mientras este debate cosmológico
+estaba en auge,
+
+315
+00:22:00,521 --> 00:22:02,860
+los sesenta estaban a plena marcha.
+
+316
+00:22:03,971 --> 00:22:08,836
+Minifaldas, autos Mini,
+y, por supuesto, el alunizaje.
+
+317
+00:22:10,095 --> 00:22:14,025
+<i>"Lograr el objetivo antes que
+finalice esta década</i>
+
+318
+00:22:14,060 --> 00:22:18,140
+<i>"de llevar un hombre a la Luna
+y traerlo de vuelta a salvo a la Tierra.</i>
+
+319
+00:22:18,175 --> 00:22:20,584
+<i>"Ningún proyecto espacial
+individual en este período</i>
+
+320
+00:22:21,274 --> 00:22:22,238
+<i>"será más admirable para la raza humana</i>
+
+321
+00:22:22,273 --> 00:22:26,540
+<i>"o más importante para la exploración
+del espacio de largo alcance,</i>
+
+322
+00:22:26,575 --> 00:22:30,540
+<i>"y ninguno será tan difícil
+o costoso de llevar a cabo."</i>
+
+323
+00:22:34,300 --> 00:22:38,220
+Mucha gente quería saber
+si esta cantidad tan grande de dinero
+
+324
+00:22:38,255 --> 00:22:42,300
+que se gastaba en colocar hombres
+en la Luna, realmente valía la pena.
+
+325
+00:22:42,335 --> 00:22:44,465
+Después de todo, ¿qué posible uso
+
+326
+00:22:44,500 --> 00:22:47,820
+se podría hacer de la Luna una vez allí?
+
+327
+00:23:03,460 --> 00:23:06,260
+Desde que Kennedy dijo su histórico
+discurso hace ocho años,
+
+328
+00:23:06,295 --> 00:23:08,780
+casi 50.000 millones de
+dólares se habrán gastado
+
+329
+00:23:08,815 --> 00:23:10,785
+para llevar un hombre a la Luna.
+
+330
+00:23:11,577 --> 00:23:14,850
+Todo este vasto proyecto
+se erigió como alta prioridad
+
+331
+00:23:14,885 --> 00:23:16,341
+normalmente utilizada en la guerra
+
+332
+00:23:16,860 --> 00:23:19,585
+y aún los verdaderos objetivos detrás
+de la decisión de Kennedy
+
+333
+00:23:19,620 --> 00:23:22,494
+para la mayoría permanecen oscuros.
+
+334
+00:23:33,420 --> 00:23:35,222
+La Luna ofrece en verdad
+gran oportunidad
+
+335
+00:23:35,257 --> 00:23:36,996
+para la experimentación científica,
+
+336
+00:23:37,335 --> 00:23:41,180
+particularmente para la astronomía
+lejos de la atmósfera de la Tierra.
+
+337
+00:23:41,215 --> 00:23:44,377
+Cuando miras el objeto menos
+perceptible en el universo,
+
+338
+00:23:44,412 --> 00:23:47,540
+la atmósfera de la Tierra
+proporciona su propia luz.
+
+339
+00:23:47,575 --> 00:23:49,985
+A medida que las cosas
+se alejan cada vez más
+
+340
+00:23:50,020 --> 00:23:53,780
+menos y menos perceptibles,
+dejamos de verlas desde la Tierra.
+
+341
+00:23:53,815 --> 00:23:56,465
+La Luna permitiría verlas
+más lejos en el espacio.
+
+342
+00:23:56,500 --> 00:24:01,080
+Eso significa más atrás en el tiempo,
+probablemente se podría distinguir
+
+343
+00:24:01,115 --> 00:24:05,625
+entre las dos teorías de cómo
+el mismo universo fue creado.
+
+344
+00:24:05,660 --> 00:24:10,940
+Este es probablemente el interrogante
+más básico que existe en astronomía,
+
+345
+00:24:10,975 --> 00:24:12,825
+todo el asunto de la cosmología,
+
+346
+00:24:12,860 --> 00:24:16,640
+quizás la creación del universo
+es la pregunta fundamental
+
+347
+00:24:16,675 --> 00:24:20,420
+que la curiosidad del hombre
+podría hacer sobre su universo.
+
+348
+00:24:20,455 --> 00:24:23,117
+A mi entender, una base
+astronómica en la Luna
+
+349
+00:24:23,152 --> 00:24:25,780
+podría darnos las respuestas
+a esa pregunta.
+
+350
+00:24:40,820 --> 00:24:43,380
+En una placa en el módulo lunar se lee,
+
+351
+00:24:43,415 --> 00:24:45,905
+"Aquí, hombres del planeta Tierra
+
+352
+00:24:45,940 --> 00:24:50,780
+"llegaron a la Luna por primera vez,
+Julio 1969 DC.
+
+353
+00:24:50,815 --> 00:24:55,020
+"Venimos en paz
+por toda la raza humana. "
+
+354
+00:25:03,580 --> 00:25:07,300
+La razón por qué los científicos
+se prepararon para llegar tan lejos
+
+355
+00:25:07,335 --> 00:25:09,705
+e intentar aclarar el asunto
+de una vez por todas,
+
+356
+00:25:09,740 --> 00:25:12,762
+era que aunque la teoría del Big Bang
+
+357
+00:25:12,797 --> 00:25:15,785
+parecía estar ganando la apuesta,
+
+358
+00:25:16,395 --> 00:25:19,597
+todavía existían algunas cosas
+que la teoría no podía explicar,
+
+359
+00:25:20,270 --> 00:25:22,795
+sobre cómo se formaron las galaxias.
+
+360
+00:25:23,015 --> 00:25:26,020
+En vista de los problemas,
+este era uno de los grandes.
+
+361
+00:25:31,780 --> 00:25:35,780
+Hoyle y El Modelo Estable
+consideraban que el Big Bang
+
+362
+00:25:35,815 --> 00:25:38,585
+tendría que haber sido una explosión
+tan poderosa
+
+363
+00:25:38,620 --> 00:25:42,780
+que hubiera producido nada más
+que materia homogénea y caliente.
+
+364
+00:25:42,815 --> 00:25:45,545
+Ese es un problema.
+
+365
+00:25:45,580 --> 00:25:47,585
+Para que las estrellas
+y las galaxias se formen
+
+366
+00:25:47,620 --> 00:25:52,780
+se necesitarían imperfecciones
+en esa sopa sin forma del Big Bang,
+
+367
+00:25:52,815 --> 00:25:58,625
+pequeñas variaciones, algunas regiones
+apenas más densas que otras.
+
+368
+00:25:58,660 --> 00:26:03,020
+Estas regiones apenas más densas
+atraerían gradualmente más y más materia
+
+369
+00:26:03,055 --> 00:26:07,500
+hasta que eventualmente
+las primeras galaxias emergieran.
+
+370
+00:26:17,620 --> 00:26:21,425
+Para apoyar cualquier posibilidad
+de encontrar estas pequeñas variaciones
+
+371
+00:26:21,460 --> 00:26:23,751
+los científicos tuvieron que retornar
+
+372
+00:26:23,786 --> 00:26:28,316
+a la radiación descubierta
+por Penzias y Wilson.
+
+373
+00:26:28,540 --> 00:26:32,940
+Si existían estas imperfecciones
+en los compuestos luego del Big Bang,
+
+374
+00:26:32,975 --> 00:26:37,140
+serían observables
+en la radiación de fondo.
+
+375
+00:26:39,460 --> 00:26:42,780
+El problema con la radiación de fondo
+
+376
+00:26:42,815 --> 00:26:45,203
+es que la señal es
+increíblemente débil,
+
+377
+00:26:45,238 --> 00:26:49,660
+imposible de descifrar apropiadamente
+cualquier diferencia
+
+378
+00:26:49,695 --> 00:26:51,660
+a través de la atmósfera de la Tierra.
+
+379
+00:26:53,540 --> 00:26:54,745
+Al final de los 70,
+
+380
+00:26:54,780 --> 00:26:59,705
+un grupo de científicos emprendedores
+pensó que habían resuelto el problema
+
+381
+00:26:59,740 --> 00:27:03,434
+tomando prestado un avión
+de reconocimiento U2,
+
+382
+00:27:03,469 --> 00:27:07,353
+legendario por sus misiones espía
+durante la Guerra Fría.
+
+383
+00:27:07,615 --> 00:27:12,540
+Ahora, podían espiar
+el principio del universo.
+
+384
+00:27:12,575 --> 00:27:14,425
+En 1977 y 1978,
+
+385
+00:27:14,460 --> 00:27:18,740
+un nuevo reconocimiento en detalle se
+llevó a cabo por un grupo en Berkeley.
+
+386
+00:27:18,775 --> 00:27:22,542
+Volaron a gran altura
+en un antiguo avión espía U2.
+
+387
+00:27:24,220 --> 00:27:26,180
+Muy bien, enciende la grabadora.
+
+388
+00:27:28,260 --> 00:27:32,540
+Bien, estamos leyendo a escala
+y leemos sobre 18.
+
+389
+00:27:35,660 --> 00:27:38,345
+Sistema de rotación, encendido.
+
+390
+00:27:39,483 --> 00:27:42,820
+El U2 cuenta con un par
+de trompas hundidas.
+
+391
+00:27:42,855 --> 00:27:45,385
+Son pequeñas, para captar
+ondas milimétricas.
+
+392
+00:27:45,420 --> 00:27:49,340
+Su trabajo es barrer el cielo,
+comparando una dirección con otra
+
+393
+00:27:49,375 --> 00:27:52,877
+para ver si la señal muestra
+signos de direccionalidad.
+
+394
+00:27:52,912 --> 00:27:56,380
+Verdadera radiación de calor
+está libre de detalles direccionales,
+
+395
+00:27:58,020 --> 00:28:02,600
+sin bordes y homogéneo,
+uniforme en todas direcciones,
+
+396
+00:28:02,635 --> 00:28:07,145
+el signo de una gran bola de fuego
+que existió hace mucho tiempo.
+
+397
+00:28:07,180 --> 00:28:09,494
+Las trompas rotan
+para intercambiar lugares
+
+398
+00:28:09,529 --> 00:28:11,809
+y descartar cualquier
+influencia interior.
+
+399
+00:28:26,580 --> 00:28:30,260
+El cielo es casi negro en el fino aire
+a casi 21 km de altura,
+
+400
+00:28:30,295 --> 00:28:33,620
+donde el U2 vuela sobre la atmósfera.
+
+401
+00:28:40,900 --> 00:28:43,625
+El Profesor Richard Muller
+nos cuenta sus resultados.
+
+402
+00:28:43,660 --> 00:28:45,910
+En los primeros vuelos
+comenzamos a ver
+
+403
+00:28:47,100 --> 00:28:51,140
+que la uniformidad de la radiación
+no era perfecta. Había anomalías.
+
+404
+00:28:51,175 --> 00:28:54,500
+Al momento de contar con varios
+vuelos a lo largo de un año,
+
+405
+00:28:54,535 --> 00:28:56,820
+el patrón se estaba haciendo evidente.
+
+406
+00:28:56,855 --> 00:28:58,865
+Existía una región más intensa.
+
+407
+00:28:58,900 --> 00:29:02,620
+Cuando miras al cielo,
+es la constelación de Leo.
+
+408
+00:29:02,655 --> 00:29:04,105
+Y, significativamente,
+
+409
+00:29:04,140 --> 00:29:06,700
+las áreas menos intensas estaban
+a 180 grados de distancia
+
+410
+00:29:06,735 --> 00:29:08,665
+en la constelación de Acuario.
+
+411
+00:29:08,700 --> 00:29:11,620
+Más aún, las variaciones
+entre estas regiones
+
+412
+00:29:11,655 --> 00:29:13,305
+eran suaves y uniformes.
+
+413
+00:29:13,340 --> 00:29:16,660
+Esto nos dio una interpretación
+de qué lo estaba causando
+
+414
+00:29:16,695 --> 00:29:19,257
+y, de hecho, no era
+una variación intrínseca
+
+415
+00:29:19,292 --> 00:29:21,785
+de la radiación de fondo
+sino que se debía
+
+416
+00:29:21,820 --> 00:29:24,585
+al movimiento de la Tierra
+a través de la radiación de fondo.
+
+417
+00:29:25,959 --> 00:29:29,980
+Aunque interesante, el U2 no había
+logrado encontrar las ondas predichas
+
+418
+00:29:30,015 --> 00:29:32,385
+de la radiación de fondo.
+
+419
+00:29:32,420 --> 00:29:36,700
+Todavía no había evidencia
+de cómo las galaxias
+
+420
+00:29:36,735 --> 00:29:39,585
+se habían formado luego del Big Bang.
+
+421
+00:29:39,620 --> 00:29:43,500
+Las cosas empeorarían para
+la brigada del Big Bang.
+
+422
+00:29:52,900 --> 00:29:56,985
+Cuando las grandes computadoras
+entraron en escena en los 80,
+
+423
+00:29:57,020 --> 00:29:59,120
+los cosmólogos contaban
+con una nueva herramienta
+
+424
+00:29:59,155 --> 00:30:03,701
+para entender cómo
+emergieron las galaxias.
+
+425
+00:30:06,660 --> 00:30:10,865
+Pero sus cálculos
+revelaron algo extraño.
+
+426
+00:30:10,900 --> 00:30:12,587
+Las galaxias, al parecer,
+
+427
+00:30:12,622 --> 00:30:16,419
+no podrían haberse formado
+solo de materia común.
+
+428
+00:30:17,375 --> 00:30:20,465
+La materia común no estaba hecha
+de los elementos correctos
+
+429
+00:30:20,500 --> 00:30:22,852
+para unirse y producir galaxias
+
+430
+00:30:22,887 --> 00:30:25,059
+lo suficientemente rápido
+luego del Big Bang.
+
+431
+00:30:26,620 --> 00:30:28,700
+99% De todo el material del universo
+
+432
+00:30:28,735 --> 00:30:29,700
+es invisible a nosotros.
+
+433
+00:30:33,220 --> 00:30:35,620
+Una forma oscura e invisible...
+
+434
+00:30:39,100 --> 00:30:44,040
+Otro tipo extraño de elementos
+deben haber colaborado también,
+
+435
+00:30:44,075 --> 00:30:47,619
+pero, desafortunadamente,
+no parecía brillar
+
+436
+00:30:47,654 --> 00:30:49,234
+como la materia normal.
+
+437
+00:30:50,900 --> 00:30:54,545
+Lo que significaba
+que nadie podía verlo.
+
+438
+00:30:54,580 --> 00:30:59,585
+Por eso, en forma imaginaria,
+se lo llamó materia oscura.
+
+439
+00:30:59,620 --> 00:31:03,710
+Para resumir, explicar cómo
+nacieron las galaxias,
+
+440
+00:31:03,745 --> 00:31:08,155
+los científicos tuvieron que apelar
+a un nuevo tipo de materia exótica
+
+441
+00:31:08,500 --> 00:31:11,780
+suficientemente densa
+para ayudar a crear galaxias,
+
+442
+00:31:11,815 --> 00:31:14,625
+pero con la inconveniencia
+de ser invisible.
+
+443
+00:31:14,660 --> 00:31:16,129
+El próximo paso fue investigar
+
+444
+00:31:16,164 --> 00:31:20,382
+de qué estaba hecha
+esta misteriosa materia oscura.
+
+445
+00:31:29,060 --> 00:31:30,683
+La explicación favorita
+
+446
+00:31:30,718 --> 00:31:35,580
+era que podía estar formada
+por una partícula aún no descubierta.
+
+447
+00:31:38,460 --> 00:31:42,425
+Muy pequeña y difícil de detectar,
+
+448
+00:31:42,460 --> 00:31:46,740
+lo que significa que,
+de encontrar alguna,
+
+449
+00:31:46,775 --> 00:31:49,700
+se necesita estar en un lugar
+extremadamente tranquilo.
+
+450
+00:31:51,900 --> 00:31:54,204
+Enfrentamos el hecho de que las pruebas
+
+451
+00:31:54,239 --> 00:31:56,509
+de la materia oscura son muy inusuales.
+
+452
+00:31:56,544 --> 00:32:00,940
+Esperamos, de hecho, una muestra
+en quizás un año,
+
+453
+00:32:00,975 --> 00:32:03,497
+un kilogramo de material como este.
+
+454
+00:32:03,532 --> 00:32:05,985
+Eso hace que todo sea muy difícil,
+
+455
+00:32:06,020 --> 00:32:09,260
+porque en la superficie de la Tierra,
+esa muestra se mezclaría
+
+456
+00:32:09,295 --> 00:32:13,540
+con los otros tipos de radiación
+que tenemos a nuestro alrededor.
+
+457
+00:32:21,340 --> 00:32:24,540
+El grupo buscó el lugar
+más tranquilo de la Tierra,
+
+458
+00:32:24,575 --> 00:32:26,260
+y lo encontró en Yorkshire.
+
+459
+00:32:28,020 --> 00:32:32,580
+No aquí arriba, sino abajo,
+a 1.000 metros debajo de la superficie.
+
+460
+00:32:43,780 --> 00:32:45,091
+Un extraño lugar para buscar
+
+461
+00:32:45,126 --> 00:32:47,776
+esta materia perdida de nuestro
+universo, se podría pensar,
+
+462
+00:32:48,095 --> 00:32:51,837
+pero si se está buscando
+un lugar profundo,
+
+463
+00:32:51,872 --> 00:32:55,580
+este es el lugar apropiado,
+la mina más profunda de Europa.
+
+464
+00:33:13,500 --> 00:33:16,218
+Aquí, más de 800 metros
+de roca sobre sus cabezas,
+
+465
+00:33:16,253 --> 00:33:19,033
+bloquean la radiación cósmica.
+
+466
+00:33:19,295 --> 00:33:23,100
+Suspendemos nuestro experimento
+en el medio de un tanque de agua,
+
+467
+00:33:23,135 --> 00:33:25,145
+entonces tendremos en entorno ideal
+
+468
+00:33:25,180 --> 00:33:29,820
+para buscar estas muestras tan extrañas
+de la materia oscura.
+
+469
+00:33:31,460 --> 00:33:34,572
+Los resultados de los experimentos
+en la mina inglesa de sal Boulby
+
+470
+00:33:34,607 --> 00:33:37,304
+deberían comenzar a llegar en 1993.
+
+471
+00:33:37,455 --> 00:33:39,825
+Los cosmólogos esperan
+en suspenso.
+
+472
+00:33:39,860 --> 00:33:44,300
+¿Se encontrará la elusiva materia
+oscura en el fondo de una mina?
+
+473
+00:33:51,900 --> 00:33:55,089
+El año 1993 vino y se fue
+
+474
+00:33:55,124 --> 00:33:58,483
+sin signos de la materia oscura.
+
+475
+00:34:05,300 --> 00:34:10,060
+La ciencia parecía haber ido
+tan lejos como pudo en la búsqueda
+
+476
+00:34:10,095 --> 00:34:14,500
+de una explicación del universo
+mirando el cielo.
+
+477
+00:34:14,535 --> 00:34:18,545
+Desafortunadamente,
+lo que vio sólo tenía sentido
+
+478
+00:34:18,580 --> 00:34:21,332
+si se tenía en cuenta este tipo
+de materia extraña
+
+479
+00:34:21,367 --> 00:34:23,074
+que nadie podía encontrar.
+
+480
+00:34:23,695 --> 00:34:27,540
+La ayuda llegó
+desde una disciplina inesperada,
+
+481
+00:34:27,575 --> 00:34:30,825
+los físicos de partículas,
+que pasan sus vidas
+
+482
+00:34:30,860 --> 00:34:34,460
+creando extraños tipos de materia
+golpeando átomos unos contra otros
+
+483
+00:34:34,495 --> 00:34:36,705
+y viendo qué queda de los desechos.
+
+484
+00:34:36,740 --> 00:34:40,620
+Pareciera que la clave de lo
+más grande imaginable
+
+485
+00:34:40,655 --> 00:34:44,500
+podría encontrarse en la partícula
+más pequeña posible.
+
+486
+00:34:51,860 --> 00:34:55,300
+La materia ahora es similar
+a como era al principio del Big Bang.
+
+487
+00:34:56,980 --> 00:35:00,000
+Necesitamos hablar
+sobre la física de partículas.
+
+488
+00:35:00,035 --> 00:35:03,020
+Esto es como una gran exploración.
+
+489
+00:35:11,100 --> 00:35:13,116
+¿Qué es lo que realmente sabemos
+sobre el Big Bang?
+
+490
+00:35:15,998 --> 00:35:17,497
+Estamos aprendiendo cada vez más
+sobre el Big Bang
+
+491
+00:35:18,651 --> 00:35:22,065
+desde la observación astronómica,
+pero, quizás, aún más interesante
+
+492
+00:35:22,100 --> 00:35:26,560
+aprendemos más y más sobre el Big Bang
+también desde la física de partículas.
+
+493
+00:35:27,342 --> 00:35:32,004
+De hecho, no está claro si los físicos
+interesados en partículas elementales
+
+494
+00:35:32,039 --> 00:35:35,885
+enseñan a los cosmólogos
+en este momento, o es al revés.
+
+495
+00:35:36,300 --> 00:35:40,820
+Verá, en los primeros segundos
+del universo, muy cerca de su origen,
+
+496
+00:35:40,855 --> 00:35:45,340
+el promedio de energía de las partículas
+es extremadamente alto, muy, muy alto,
+
+497
+00:35:45,375 --> 00:35:48,985
+mucho más que las energías
+de partículas
+
+498
+00:35:49,020 --> 00:35:53,320
+producidas en los grandes aceleradores
+aquí en la Tierra, como el del CERN.
+
+499
+00:35:53,355 --> 00:35:57,620
+De hecho, al Big Bang a veces
+se lo llama, por esa razón,
+
+500
+00:35:57,655 --> 00:35:59,460
+el acelerador del hombre pobre.
+
+501
+00:36:03,460 --> 00:36:07,920
+La física de partículas y la cosmología
+era una unión perfecta.
+
+502
+00:36:08,776 --> 00:36:12,345
+El estudio del vasto cosmos
+y la búsqueda de las pequeñas partes
+
+503
+00:36:12,380 --> 00:36:16,980
+que construyen la materia, resultó
+ser dos caras de la misma moneda.
+
+504
+00:36:24,900 --> 00:36:26,763
+Alrededor de 15 billones de años atrás,
+
+505
+00:36:27,980 --> 00:36:30,332
+no existían las estrellas en el cielo.
+Ni siquiera existía el cielo.
+
+506
+00:36:31,167 --> 00:36:34,060
+Todo lo que existía era
+una básica bola de fuego.
+
+507
+00:36:37,100 --> 00:36:38,989
+Esa bola de fuego de energía
+
+508
+00:36:39,024 --> 00:36:41,735
+condensada en simples ladrillos
+de construcción de materia
+
+509
+00:36:41,770 --> 00:36:43,820
+al inicio de nuestro universo.
+
+510
+00:36:49,420 --> 00:36:51,591
+¿Qué eran esas entidades fundamentales
+
+511
+00:36:51,626 --> 00:36:54,436
+de las cuales las estrellas
+y las galaxias se construyeron?
+
+512
+00:36:55,860 --> 00:36:59,595
+Los físicos intentan responder
+esa pregunta aislando materia,
+
+513
+00:36:59,630 --> 00:37:01,705
+observando sus partes,
+
+514
+00:37:01,740 --> 00:37:07,580
+en efecto, mirando atrás en el tiempo
+a las primeras etapas de la creación.
+
+515
+00:37:07,615 --> 00:37:11,145
+En estas primeras etapas de la creación,
+
+516
+00:37:11,180 --> 00:37:15,825
+la materia existía en una extraña forma,
+maravillosa y primitiva.
+
+517
+00:37:17,648 --> 00:37:21,140
+Sospecho que al comienzo del Big Bang,
+la naturaleza era bastante simple
+
+518
+00:37:21,175 --> 00:37:25,100
+y fue entonces cuando la temperatura
+comienza a descender,
+
+519
+00:37:25,135 --> 00:37:27,700
+que toda la variedad
+de fuerzas y de partículas
+
+520
+00:37:27,735 --> 00:37:30,377
+que conocemos hoy,
+comienza a aparecer.
+
+521
+00:37:31,051 --> 00:37:32,896
+Cuando el universo estaba
+extremadamente caliente,
+
+522
+00:37:32,931 --> 00:37:35,635
+un curioso estado es constante.
+
+523
+00:37:35,670 --> 00:37:38,305
+Veamos lo que
+nuestros cálculos nos dicen.
+
+524
+00:37:38,340 --> 00:37:42,500
+Justo al comienzo del Big Bang,
+existía un alto grado de simetría
+
+525
+00:37:42,535 --> 00:37:44,465
+entre los diferentes tipos de fuerzas
+
+526
+00:37:44,500 --> 00:37:47,820
+y los diferentes tipos de partículas
+que componían el universo.
+
+527
+00:37:47,855 --> 00:37:50,637
+Pero ese estado de cosas
+duró solo un instante.
+
+528
+00:37:50,672 --> 00:37:53,385
+Casi inmediatamente,
+la simetría perfecta se perdió.
+
+529
+00:37:53,420 --> 00:37:57,500
+Esto sucedió, en quizás,
+una diezmilésima de segundo
+
+530
+00:37:57,535 --> 00:37:59,820
+luego del principio del Big Bang.
+
+531
+00:37:59,855 --> 00:38:01,945
+En escalas muy pequeñas,
+
+532
+00:38:01,980 --> 00:38:06,220
+la materia ahora es similar
+a como era, al principio del Big Bang.
+
+533
+00:38:06,255 --> 00:38:10,460
+Hay un alto grado de simetría
+entre los tipos de fuerzas
+
+534
+00:38:10,495 --> 00:38:12,425
+y los tipos de partículas.
+
+535
+00:38:12,460 --> 00:38:15,785
+Hemos llegado tarde
+en la historia del universo
+
+536
+00:38:15,820 --> 00:38:17,959
+para observar esta simetría fácilmente
+
+537
+00:38:17,994 --> 00:38:21,027
+por eso intentamos recrearla
+en nuestro laboratorio,
+
+538
+00:38:21,062 --> 00:38:24,060
+produciendo pequeños "bangs"
+en nuestros aceleradores.
+
+539
+00:38:31,020 --> 00:38:33,646
+Los protones están en la máquina,
+
+540
+00:38:33,681 --> 00:38:36,273
+estamos listos en este punto.
+
+541
+00:38:37,135 --> 00:38:40,220
+Para resumir, los aceleradores
+de partículas, se esperaba,
+
+542
+00:38:40,255 --> 00:38:43,665
+proveerían con mini Big Bangs,
+
+543
+00:38:43,700 --> 00:38:45,745
+pequeños ejemplos de las condiciones
+generales originales
+
+544
+00:38:45,780 --> 00:38:50,505
+bajo las cuales toda materia,
+aún la materia oscura, se formó.
+
+545
+00:38:50,540 --> 00:38:54,300
+Le llamo, a veces, la más grande
+aventura de la mente humana,
+
+546
+00:38:55,655 --> 00:38:57,257
+la investigación más profunda posible,
+
+547
+00:38:57,292 --> 00:38:58,952
+para entender al máximo posible
+nuestro universo,
+
+548
+00:38:58,987 --> 00:39:03,660
+de qué está hecha la materia,
+es como una gran exploración.
+
+549
+00:39:07,660 --> 00:39:11,380
+Fue una exploración que requería
+de aceleradores de partículas
+
+550
+00:39:11,415 --> 00:39:13,453
+capaces de generar energías similares
+
+551
+00:39:13,488 --> 00:39:16,985
+a aquellas que deben haber estado
+presentes en el Big Bang.
+
+552
+00:39:17,020 --> 00:39:20,500
+Entonces, Hans, parece que
+finalmente hubo colisiones.
+
+553
+00:39:20,535 --> 00:39:22,740
+Esto significaba construir
+máquinas gigantescas.
+
+554
+00:39:24,300 --> 00:39:28,140
+Casi es una paradoja que cuanto más
+pequeño el objeto que buscas,
+
+555
+00:39:28,175 --> 00:39:30,145
+más grande es el instrumento
+que se necesita.
+
+556
+00:39:30,180 --> 00:39:32,692
+Cerca de Ginebra,
+los misterios del átomo
+
+557
+00:39:32,727 --> 00:39:35,204
+se prueban en este
+gigantesco laboratorio.
+
+558
+00:39:35,375 --> 00:39:37,420
+Se encuentra a ambos lados
+de la frontera suiza.
+
+559
+00:39:42,540 --> 00:39:46,220
+Este otro situado cerca de San
+Francisco tiene más de 3 km de largo.
+
+560
+00:39:52,629 --> 00:39:55,971
+Aún para alguien conduciendo
+un auto rápido, es un largo trayecto.
+
+561
+00:39:56,006 --> 00:39:58,933
+Los electrones que vuelan
+a lo largo del acelerador
+
+562
+00:39:58,968 --> 00:40:01,860
+hacen el trayecto
+en una cienmilésima de segundo.
+
+563
+00:40:40,780 --> 00:40:44,265
+La máquina tortura la materia.
+
+564
+00:40:44,300 --> 00:40:48,900
+Imagen tras imagen, vislumbramos
+cómo se veía el universo
+
+565
+00:40:48,935 --> 00:40:51,305
+minutos después de su creación.
+
+566
+00:40:51,340 --> 00:40:53,820
+Las partículas producidas
+luego de estas colisiones
+
+567
+00:40:53,855 --> 00:40:55,505
+son muy pequeñas como para verlas.
+
+568
+00:40:55,540 --> 00:40:59,100
+Su presencia se revela solo
+por las huellas que dejan atrás
+
+569
+00:40:59,135 --> 00:41:01,740
+a medida que pasan a través
+del equipo detector.
+
+570
+00:41:03,700 --> 00:41:05,865
+La manera en que averiguamos
+sobre este protón
+
+571
+00:41:05,900 --> 00:41:09,180
+y el primer tipo
+de experimentos que hicimos,
+
+572
+00:41:09,215 --> 00:41:11,072
+es quitar el electrón del átomo
+
+573
+00:41:11,107 --> 00:41:15,380
+y acelerar el protón más y más, dejando
+que se estrelle en una masa de átomos,
+
+574
+00:41:15,415 --> 00:41:17,145
+en una pieza de materia común,
+
+575
+00:41:17,180 --> 00:41:19,227
+esperando golpee
+uno de los otros protones
+
+576
+00:41:19,262 --> 00:41:20,983
+en, digamos, gas hidrógeno,
+
+577
+00:41:21,895 --> 00:41:24,740
+y ver qué sucede,
+qué resulta de esto.
+
+578
+00:41:24,775 --> 00:41:26,785
+Sería como intentar averiguar
+
+579
+00:41:26,820 --> 00:41:29,705
+de qué está hecho un reloj
+y cómo trabaja su mecanismo
+
+580
+00:41:29,740 --> 00:41:34,700
+chocando un reloj con otro,
+observando las partes que salen volando.
+
+581
+00:41:34,735 --> 00:41:38,380
+Estos patrones, los largos
+y formas de estas huellas,
+
+582
+00:41:38,415 --> 00:41:41,185
+describen la historia de vida
+de las partículas.
+
+583
+00:41:41,220 --> 00:41:44,145
+Algunas de ellas viven solamente
+unos pocos billonésimos de segundo
+
+584
+00:41:44,180 --> 00:41:48,225
+y las huellas son la única evidencia
+de su existencia fugaz.
+
+585
+00:41:48,260 --> 00:41:52,380
+Interpretar estas imágenes, decidir
+lo que nos dicen sobre el universo,
+
+586
+00:41:52,415 --> 00:41:54,124
+necesita una imaginación colosal,
+
+587
+00:41:54,159 --> 00:41:57,108
+las mejores mentes científicas
+de nuestro tiempo.
+
+588
+00:41:57,375 --> 00:42:00,305
+Estas propiedades de los átomos
+que hemos encontrado aquí
+
+589
+00:42:00,340 --> 00:42:01,906
+son las mismas que encontramos
+
+590
+00:42:01,941 --> 00:42:04,041
+como propiedades de los átomos
+en las estrellas.
+
+591
+00:42:04,076 --> 00:42:06,277
+Es el universo lo que estamos viendo.
+
+592
+00:42:06,312 --> 00:42:08,505
+No estamos explorando algo pequeño
+
+593
+00:42:08,540 --> 00:42:11,678
+y quizás vamos profundizando
+y se ve cada vez más pequeño,
+
+594
+00:42:11,713 --> 00:42:12,890
+solo es pequeño en su dimensión.
+
+595
+00:42:13,455 --> 00:42:16,580
+En lo que concierne al universo,
+es abrumador.
+
+596
+00:42:16,615 --> 00:42:18,705
+Por eso es una gran aventura.
+
+597
+00:42:18,740 --> 00:42:22,592
+Es aparentemente importante,
+es el resultado de la curiosidad,
+
+598
+00:42:22,627 --> 00:42:24,052
+es imposible de detener.
+
+599
+00:42:28,340 --> 00:42:29,945
+De vuelta en el CERN en Ginebra,
+
+600
+00:42:29,980 --> 00:42:31,642
+los experimentos con partículas
+
+601
+00:42:31,677 --> 00:42:35,621
+pronto atrajeron la curiosidad
+de la población local.
+
+602
+00:42:38,490 --> 00:42:43,081
+<i>Aceleran los átomos
+hasta la velocidad de la luz...</i>
+
+603
+00:42:44,608 --> 00:42:46,226
+<i>300.000 km por segundo...</i>
+
+604
+00:42:47,580 --> 00:42:50,362
+<i>y colisionan y se destruyen
+unos a otros.</i>
+
+605
+00:42:51,688 --> 00:42:53,175
+<i>¿Está usted interesado en la física?</i>
+
+606
+00:42:54,070 --> 00:42:56,904
+<i>Por supuesto, porque para mí
+es el futuro.</i>
+
+607
+00:43:03,940 --> 00:43:05,919
+Como tantos productores
+de filmes documentales
+
+608
+00:43:05,954 --> 00:43:08,085
+han observado al pasar los años,
+
+609
+00:43:08,540 --> 00:43:14,100
+la física de partículas tiene el hábito
+de volverse muy complicada rápidamente.
+
+610
+00:43:26,540 --> 00:43:29,340
+El CERN es un lugar
+extraño y desconcertante.
+
+611
+00:43:29,375 --> 00:43:32,140
+Las pruebas aquí son casi invisibles.
+
+612
+00:43:36,968 --> 00:43:39,514
+Se llevan a cabo dentro de tubos
+de acero inoxidable
+
+613
+00:43:40,667 --> 00:43:43,101
+o dentro de las mentes de los físicos.
+
+614
+00:43:50,540 --> 00:43:55,420
+El trabajo del físico y sus ideas son
+tan difíciles de entender para nosotros
+
+615
+00:43:55,455 --> 00:43:59,134
+como los ladrillos de construcción
+de la materia son para el físico.
+
+616
+00:43:59,499 --> 00:44:04,566
+Como ellos, debemos confiar en ecos
+o sombras como estas.
+
+617
+00:44:04,601 --> 00:44:08,825
+John Cherub visitó el CERN de nuevo
+con el propósito de este documental.
+
+618
+00:44:08,860 --> 00:44:11,168
+Conversa con John Bell,
+un teórico del CERN,
+
+619
+00:44:11,203 --> 00:44:13,476
+sobre cómo realizar
+un documental sobre el CERN.
+
+620
+00:44:13,511 --> 00:44:16,437
+Me parece que una
+de las cosas más difíciles
+
+621
+00:44:16,472 --> 00:44:20,020
+sobre lo que debemos hablar
+es cómo comunicar fehacientemente
+
+622
+00:44:20,055 --> 00:44:22,945
+algunas de las ideas básicas
+en la física de partículas
+
+623
+00:44:22,980 --> 00:44:27,940
+necesarias para quien quiera
+entender lo que sucede en el CERN.
+
+624
+00:44:27,975 --> 00:44:29,991
+¿A qué tipo de audiencia
+estaría dirigido?
+
+625
+00:44:31,104 --> 00:44:33,020
+- ¿Qué conocimientos tienen?
+- Variados.
+
+626
+00:44:33,055 --> 00:44:37,157
+Me refiero a muy variados
+y para algunos,
+
+627
+00:44:37,192 --> 00:44:41,225
+el interés continuo en las ciencias,
+
+628
+00:44:41,260 --> 00:44:44,500
+es a veces un interés bien informado
+y a veces no.
+
+629
+00:44:46,100 --> 00:44:48,940
+¿Apunta usted a hablar de
+la física de partículas
+
+630
+00:44:48,975 --> 00:44:50,757
+o sobre los físicos de partículas?
+
+631
+00:44:50,792 --> 00:44:52,505
+Mayormente sobre
+la física de partículas,
+
+632
+00:44:52,540 --> 00:44:55,065
+incidentalmente sobre
+los físicos de partículas.
+
+633
+00:44:55,100 --> 00:44:58,780
+Un tipo de exposición formal o alguien-
+
+634
+00:44:58,815 --> 00:45:00,465
+Por el contrario no, no, no.
+
+635
+00:45:00,500 --> 00:45:04,420
+Alguien comienza diciendo que la materia
+se compone de pequeñas partes
+
+636
+00:45:04,455 --> 00:45:08,340
+y que estas pequeñas partes están
+compuestas de partes aún más pequeñas.
+
+637
+00:45:08,375 --> 00:45:11,700
+El átomo es algo que se puede
+describir a las personas
+
+638
+00:45:11,735 --> 00:45:14,265
+porque es similar al sistema planetario.
+
+639
+00:45:14,300 --> 00:45:17,260
+Hay un centro y un número de electrones
+
+640
+00:45:17,295 --> 00:45:20,197
+girando alrededor de este centro
+que es el núcleo.
+
+641
+00:45:20,232 --> 00:45:23,086
+Me parece que eso
+se puede decir a la gente.
+
+642
+00:45:23,121 --> 00:45:25,940
+No existe nada extraño
+excepto la escala,
+
+643
+00:45:25,975 --> 00:45:27,020
+que es muy pequeña.
+
+644
+00:45:32,140 --> 00:45:35,045
+Tan pronto como hurgas
+profundo dentro del átomo,
+
+645
+00:45:35,080 --> 00:45:37,673
+las cosas se vuelven aún más extrañas.
+
+646
+00:45:41,260 --> 00:45:46,752
+La condición para una teoría en la cual
+los infinitos se puedan manejar,
+
+647
+00:45:46,787 --> 00:45:48,242
+una condición necesaria,
+
+648
+00:45:48,277 --> 00:45:52,900
+es que la constante de acoplamiento sea
+de dimensión positiva o cero.
+
+649
+00:45:52,935 --> 00:45:55,460
+La constante de acoplamiento
+aparece en el sistema de Lagrange,
+
+650
+00:45:55,495 --> 00:45:57,300
+multiplicando un tipo de operador.
+
+651
+00:46:01,740 --> 00:46:06,145
+Ocultas dentro del laberinto matemático
+estaban las descripciones
+
+652
+00:46:06,180 --> 00:46:08,139
+de una selección
+de partículas sub-atómicas
+
+653
+00:46:08,174 --> 00:46:10,554
+que nadie había visto antes.
+
+654
+00:46:23,771 --> 00:46:25,352
+Para detectar estas partículas,
+
+655
+00:46:25,387 --> 00:46:29,000
+los científicos construyen aceleradores
+cada vez más grandes y mejores.
+
+656
+00:46:29,035 --> 00:46:32,947
+Están obteniendo 100 veces
+la energía que tienen ahora.
+
+657
+00:46:32,982 --> 00:46:36,321
+Será algo emocionante.
+Han habido tremendos avances
+
+658
+00:46:36,356 --> 00:46:39,660
+en la física teórica, en la física
+de partículas, desde que llegué.
+
+659
+00:46:48,700 --> 00:46:52,980
+Lo que emergió gradualmente
+de estos violentos choques entre átomos
+
+660
+00:46:53,015 --> 00:46:57,420
+fue una imagen detallada
+del principio del universo.
+
+661
+00:47:08,660 --> 00:47:11,804
+En la década de los 80,
+los aceleradores de partículas
+
+662
+00:47:11,839 --> 00:47:14,914
+eran tan poderosos,
+que permitieron a los científicos
+
+663
+00:47:14,949 --> 00:47:20,260
+vislumbrar cómo se veía nuestro universo
+apenas momentos después del Big Bang.
+
+664
+00:47:31,860 --> 00:47:36,905
+Aunque los físicos de partículas
+han hecho grandes avances,
+
+665
+00:47:36,940 --> 00:47:41,900
+el fastidioso hecho permanecía, aún
+con la misteriosa materia oscura
+
+666
+00:47:41,935 --> 00:47:42,722
+que nadie podía encontrar,
+
+667
+00:47:42,757 --> 00:47:47,613
+la teoría del Big Bang no funcionaba
+sin las ondas de radiación de fondo
+
+668
+00:47:47,648 --> 00:47:49,868
+de Penzias y Wilson,
+
+669
+00:47:49,903 --> 00:47:52,761
+las reveladoras áreas
+de calor y frío
+
+670
+00:47:52,796 --> 00:47:57,061
+que el avión espía U2
+no había logrado detectar.
+
+671
+00:48:02,580 --> 00:48:07,020
+En un último intento desesperado
+de encontrar las ondas importantes,
+
+672
+00:48:07,055 --> 00:48:10,140
+un satélite llamado COBE sería lanzado
+
+673
+00:48:10,175 --> 00:48:13,420
+a bordo del Space Shuttle en 1988.
+
+674
+00:48:16,700 --> 00:48:20,225
+Pero el 28 de Enero de 1986,
+
+675
+00:48:20,260 --> 00:48:23,060
+el proyecto completo se vio amenazado.
+
+676
+00:48:46,540 --> 00:48:50,417
+El desastre del Challenger significó
+que la NASA tuvo que reevaluar
+
+677
+00:48:50,452 --> 00:48:54,028
+la estrategia del Shuttle
+y al poco tiempo,
+
+678
+00:48:54,063 --> 00:48:57,283
+COBE se canceló del programa.
+
+679
+00:48:58,940 --> 00:49:00,702
+El equipo del COBE se vio forzado
+
+680
+00:49:00,737 --> 00:49:02,904
+a encontrar un vehículo
+de lanzamiento sustituto,
+
+681
+00:49:03,375 --> 00:49:07,740
+y al final lograron lanzar
+el satélite en 1989.
+
+682
+00:49:07,775 --> 00:49:11,025
+Tres, dos.
+
+683
+00:49:11,060 --> 00:49:13,547
+Tenemos ignición
+del motor principal y...
+
+684
+00:49:13,778 --> 00:49:14,838
+¡despegue!
+
+685
+00:49:14,873 --> 00:49:17,355
+Despegue del Delta 189
+
+686
+00:49:17,390 --> 00:49:21,013
+y del Explorador de Observación
+Cósmica - COBE.
+
+687
+00:49:21,048 --> 00:49:23,820
+El vehículo ha dejado la torre...
+
+688
+00:49:25,940 --> 00:49:31,606
+Cuando los datos llegaron a la Tierra,
+hubo finalmente motivo de celebración.
+
+689
+00:49:36,700 --> 00:49:41,048
+Es la víspera del aniversario
+del lanzamiento del COBE,
+
+690
+00:49:41,083 --> 00:49:45,013
+el tercer aniversario y nos tomamos
+un momento del trabajo duro,
+
+691
+00:49:45,048 --> 00:49:47,780
+para celebrar este gran evento.
+
+692
+00:49:47,815 --> 00:49:49,860
+COBE aún reúne datos.
+
+693
+00:49:52,460 --> 00:49:56,780
+Se ve el universo infrarrojo aquí
+y las estrellas
+
+694
+00:49:56,815 --> 00:50:01,100
+en nuestra galaxia 300.000 años
+después del Big Bang.
+
+695
+00:50:03,500 --> 00:50:07,585
+Cuando observábamos al COBE
+pensamos que sería solo un año.
+
+696
+00:50:07,620 --> 00:50:11,700
+Ese era el plan original,
+pero todos esperábamos que durara más.
+
+697
+00:50:11,735 --> 00:50:15,065
+Estamos en el tercer año
+y esperamos
+
+698
+00:50:15,100 --> 00:50:17,625
+tener éxito y continuar un cuarto año.
+
+699
+00:50:17,660 --> 00:50:21,460
+Los primeros resultados fueron apenas
+perceptibles y difíciles de interpretar,
+
+700
+00:50:21,495 --> 00:50:24,100
+pero con un equipo de análisis
+que ha crecido a 100,
+
+701
+00:50:24,135 --> 00:50:25,940
+parecen estar mucho más confiados.
+
+702
+00:50:30,780 --> 00:50:33,822
+Aquí está el medio de nuestra galaxia,
+y aquí hay algo más.
+
+703
+00:50:33,857 --> 00:50:36,865
+Esta parte del cielo es
+mucho más brillante que esta otra.
+
+704
+00:50:36,900 --> 00:50:40,745
+Más brillante significa una parte en mil
+para nosotros, y no es mucho.
+
+705
+00:50:40,780 --> 00:50:44,625
+Se debe al movimiento de la Tierra
+relativo al resto del universo.
+
+706
+00:50:44,660 --> 00:50:49,260
+Nuestro procesador de datos ha avanzado
+hasta quitar esta parte.
+
+707
+00:50:49,295 --> 00:50:52,537
+Podemos evitar las emisiones de nuestra
+propia galaxia aquí en el medio
+
+708
+00:50:52,572 --> 00:50:55,780
+y podemos deducir que esta parte
+es realmente cósmica.
+
+709
+00:50:57,420 --> 00:50:59,072
+Las pequeñas fluctuaciones remanentes
+
+710
+00:50:59,107 --> 00:51:01,975
+compiten con el ruido
+del detector mismo.
+
+711
+00:51:02,010 --> 00:51:04,980
+Lleva tiempo extraer
+una señal del ruido.
+
+712
+00:51:11,380 --> 00:51:14,145
+Comenzamos con el COBE
+sabiendo que nadie conocía
+
+713
+00:51:14,180 --> 00:51:17,105
+cómo estas gigantescas estructuras
+y agrupaciones se producían.
+
+714
+00:51:17,140 --> 00:51:19,142
+Todavía no existe una teoría completa
+
+715
+00:51:19,177 --> 00:51:21,801
+de cómo estas agrupaciones emergieron
+y lo que eso significa,
+
+716
+00:51:21,836 --> 00:51:25,495
+pero al menos cuentan con datos para
+que los teóricos continúen su labor.
+
+717
+00:51:25,695 --> 00:51:29,060
+Este es un mapa del universo
+como se veía 300.000 años
+
+718
+00:51:29,095 --> 00:51:32,065
+después de la primera explosión
+con unas pocas adiciones.
+
+719
+00:51:32,100 --> 00:51:35,145
+Esta porción aquí en medio
+es de nuestra propia galaxia.
+
+720
+00:51:35,180 --> 00:51:39,865
+Lo que vemos aquí son puntos de calor,
+los rojos de calor y los azules, fríos,
+
+721
+00:51:39,900 --> 00:51:42,727
+y esas cosas son casi
+una parte en cien mil
+
+722
+00:51:42,762 --> 00:51:45,203
+más brillantes o frías que el promedio.
+
+723
+00:51:45,238 --> 00:51:49,100
+Estos puntos crecerán hasta ser
+estructuras gigantescas,
+
+724
+00:51:49,135 --> 00:51:52,700
+a través de 300 millones
+de años luz en nuestra era.
+
+725
+00:51:52,735 --> 00:51:55,217
+Las hemos visto antes que estallaran,
+
+726
+00:51:55,252 --> 00:51:57,700
+antes que se expandieran
+con el universo.
+
+727
+00:52:02,580 --> 00:52:04,985
+Era el resultado largamente esperado.
+
+728
+00:52:05,020 --> 00:52:09,820
+Al final las variaciones de la radiación
+de fondo se habían encontrado,
+
+729
+00:52:09,855 --> 00:52:13,457
+un cuarto de siglo
+desde que Penzias y Wilson
+
+730
+00:52:13,492 --> 00:52:17,025
+habían escuchado por primera vez
+el eco del Big Bang.
+
+731
+00:52:17,060 --> 00:52:18,593
+A pesar del COBE,
+
+732
+00:52:18,628 --> 00:52:22,580
+Fred Hoyle no abandonó
+su Modelo Estable.
+
+733
+00:52:23,660 --> 00:52:29,660
+Hoyle permaneció violentamente opuesto
+a la teoría nombrada sin querer.
+
+734
+00:52:29,695 --> 00:52:31,545
+Fue a su tumba en 2001
+
+735
+00:52:31,580 --> 00:52:36,660
+aún creyendo que era su teoría
+la correcta y no la del Big Bang.
+
+736
+00:52:43,242 --> 00:52:46,515
+La evidencia estaba ahora
+apilándose en su contra.
+
+737
+00:52:46,580 --> 00:52:51,860
+El hecho que el Hubble había observado
+galaxias alejándose unas de otras,
+
+738
+00:52:51,895 --> 00:52:54,940
+lo que significaba que nuestro universo
+estaba expandiéndose.
+
+739
+00:52:59,780 --> 00:53:03,020
+Que Penzias y Wilson
+habían detectado radiación
+
+740
+00:53:03,055 --> 00:53:06,940
+las sobras de una gran bola
+de fuego básica.
+
+741
+00:53:06,975 --> 00:53:11,150
+Ignición del motor principal y...
+¡despegue!
+
+742
+00:53:11,185 --> 00:53:15,368
+Y que el COBE había detectado ondas
+dentro de la radiación cósmica.
+
+743
+00:53:19,020 --> 00:53:22,435
+Todo esto nos ha proporcionado
+evidencia contundente
+
+744
+00:53:22,470 --> 00:53:25,713
+de un universo creado por un Big Bang.
+
+745
+00:53:39,580 --> 00:53:42,425
+A pesar de esto, un problema aún existe.
+
+746
+00:53:42,460 --> 00:53:46,643
+La maravillosa materia oscura,
+tan útil cuando se necesita explicar
+
+747
+00:53:46,678 --> 00:53:50,860
+cómo funcionan las galaxias,
+todavía no ha sido encontrada.
+
+748
+00:53:55,580 --> 00:53:57,369
+Ni en las profundidades
+de una mina de sal,
+
+749
+00:53:57,404 --> 00:54:01,215
+ni en ninguno de los aceleradores
+de partículas existentes.
+
+750
+00:54:08,540 --> 00:54:11,180
+Esto podría llegar a cambiar pronto.
+
+751
+00:54:13,260 --> 00:54:16,600
+Muy pronto, el enorme
+Colisionador de Hadrones
+
+752
+00:54:16,635 --> 00:54:19,905
+en el CERN en Ginebra
+será puesto en funcionamiento.
+
+753
+00:54:19,940 --> 00:54:24,200
+Es un acelerador de partículas
+capaz de crear las condiciones
+
+754
+00:54:24,235 --> 00:54:28,460
+menos de una billonésima de segundo
+luego del mismo Big Bang.
+
+755
+00:54:28,495 --> 00:54:32,745
+Por primera vez
+en 13,7 billones de años,
+
+756
+00:54:32,780 --> 00:54:37,740
+los científicos podrán observar lo que
+Hoyle aseguró que nunca se podría.
+
+757
+00:54:37,775 --> 00:54:41,380
+Podrán, efectivamente
+presenciar la creación.
+
+758
+00:54:43,020 --> 00:54:48,580
+Este es un enorme y nuevo microscopio
+que nos proporcionará
+
+759
+00:54:48,615 --> 00:54:52,017
+una visión de un mundo diferente.
+
+760
+00:54:53,877 --> 00:54:55,385
+El universo, como todo en el mundo,
+
+761
+00:54:55,420 --> 00:54:58,320
+está hecho de partes
+que deben ser entendidas
+
+762
+00:54:58,355 --> 00:55:01,185
+para comprender cómo
+funciona el universo.
+
+763
+00:55:02,670 --> 00:55:05,080
+Algunas de las tecnologías
+que utilizamos no existían
+
+764
+00:55:05,115 --> 00:55:08,940
+cuando comenzamos realmente
+a diseñar estos detectores.
+
+765
+00:55:17,037 --> 00:55:20,540
+¿Cómo es entonces que se construye
+una máquina Big Bang?
+
+766
+00:55:23,580 --> 00:55:26,227
+Primero, se cava unos 100 metros,
+
+767
+00:55:26,262 --> 00:55:28,839
+se perfora a través de la piedra
+
+768
+00:55:28,874 --> 00:55:32,533
+hasta obtener un túnel
+circular de 27 km.
+
+769
+00:55:34,300 --> 00:55:36,942
+Alrededor del túnel, enormes salas,
+
+770
+00:55:36,977 --> 00:55:39,584
+cada una del tamaño de una catedral.
+
+771
+00:55:40,535 --> 00:55:41,710
+Dentro de ellas,
+
+772
+00:55:41,745 --> 00:55:46,700
+el montaje de complejas cámaras
+para detectar partículas.
+
+773
+00:55:49,140 --> 00:55:51,865
+Luego, después de casi dos décadas,
+
+774
+00:55:51,900 --> 00:55:55,140
+al fin se puede contemplar
+el experimento.
+
+775
+00:56:05,822 --> 00:56:09,600
+El Gran Colisionador de Hadrones- LHC -
+generará siete veces la energía
+
+776
+00:56:09,635 --> 00:56:12,442
+de cualquier acelerador existente.
+
+777
+00:56:19,620 --> 00:56:22,865
+Con esto, nos acercará al Big Bang
+
+778
+00:56:22,900 --> 00:56:26,110
+mucho más de lo que nunca se estuvo.
+
+779
+00:56:32,860 --> 00:56:36,020
+Se puede sentir, al caminar
+por los corredores del CERN
+
+780
+00:56:36,055 --> 00:56:38,837
+y otros laboratorios del mundo,
+
+781
+00:56:41,655 --> 00:56:45,647
+que el entusiasmo crece de nuevo
+anticipando lo que podría suceder.
+
+782
+00:56:48,860 --> 00:56:54,100
+La escala de fuerzas que trabajan
+en este proceso no tiene precedentes,
+
+783
+00:56:54,135 --> 00:56:57,300
+el experimento -
+un paso a lo desconocido.
+
+784
+00:57:01,820 --> 00:57:04,500
+Ciencia es lo que hacemos cuando
+no sabemos lo que hacemos.
+
+785
+00:57:08,220 --> 00:57:10,185
+Esa es una buena
+descripción de la ciencia.
+
+786
+00:57:10,220 --> 00:57:13,780
+Las revoluciones se producen a veces,
+desde el hecho de golpear una pared
+
+787
+00:57:13,815 --> 00:57:16,300
+y darse cuenta que no
+se ha comprendido nada.
+
+788
+00:57:19,700 --> 00:57:25,020
+Algunos piensan que es la única manera
+de captar la realidad del universo.
+
+789
+00:57:26,700 --> 00:57:28,305
+Nos encontramos en un punto
+
+790
+00:57:28,340 --> 00:57:32,140
+donde solo los experimentos pueden
+decirnos el camino a seguir.
+
+791
+00:57:37,820 --> 00:57:41,900
+De un salto de fe, provocado
+por lo que un hombre registró
+
+792
+00:57:41,935 --> 00:57:46,185
+al barrer los cielos en 1929,
+
+793
+00:57:46,220 --> 00:57:50,745
+hasta tambalearse al borde
+del hecho científico en 2008,
+
+794
+00:57:50,780 --> 00:57:52,613
+la travesía del Big Bang
+
+795
+00:57:52,648 --> 00:57:57,327
+a través de ocho décadas de debate
+filosófico y esfuerzos científicos
+
+796
+00:57:57,362 --> 00:58:01,359
+podría estar aproximándose
+a un histórico desenlace.
+
+797
+00:58:04,580 --> 00:58:09,660
+Por otro lado, si las partes finales
+del rompecabezas cosmológico
+
+798
+00:58:09,695 --> 00:58:12,305
+no llegaran a ubicarse en el LHC,
+
+799
+00:58:12,340 --> 00:58:15,540
+entonces nuestra travesía
+solo habría comenzado.
+
+800
+00:58:19,018 --> 00:58:21,444
+Traducción: cm1454
+
