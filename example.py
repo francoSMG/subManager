@@ -1,5 +1,5 @@
 import subdivx 
-manager=subdivx.manager(username='fm2020',password='qweasd')
+manager=subdivx.manager(username='yourUser',password='yourPassword')
 manager.connect()
 subsLinks=manager.search(query='Big Bang ',pageRange=range(1,2))
 for link in subsLinks:
